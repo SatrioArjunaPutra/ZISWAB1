@@ -1,1 +1,3245 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5181, -7.3686]}, "properties": {"npsn": "69955962", "nama_sekolah": "Cibeunteur", "alamat": "Dusun Gardu No.48 Rt.021 Rw.007", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70044549", "nama_sekolah": "MI ALAM MAFAAZA", "alamat": "Jl.Dipatiukur Gg.RSA RT.01 RW.10 Lingk. Parunglesang", "kelurahan": "Kec. Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5067, -7.3626]}, "properties": {"npsn": "60710124", "nama_sekolah": "MIN 3 Kota Banjar", "alamat": "KARANG PUCUNG", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5372, -7.3672]}, "properties": {"npsn": "60710125", "nama_sekolah": "MIS BANJAR 2", "alamat": "JL. MASJID AGUNG GG. KANCRA NO.184 RT.02/05 CIBULAN BANJAR", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5104, -7.3975]}, "properties": {"npsn": "60710126", "nama_sekolah": "MIS BANTARSARI", "alamat": "DSN. CIKAPUNDUNG RT. 36 RW. 18", "kelurahan": "Neglasari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5182, -7.3689]}, "properties": {"npsn": "60710127", "nama_sekolah": "MIS CIBEUNTEUR", "alamat": "Jl. Cibeunteur No. 48 Dusun Gardu RT. 021 RW. 007", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.4895, -7.3731]}, "properties": {"npsn": "60710128", "nama_sekolah": "MIS CIBONTE", "alamat": "Lingkungan Awiluar RT 13/04", "kelurahan": "Situbatu", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.533953, -7.3665829]}, "properties": {"npsn": "20279804", "nama_sekolah": "MTsN 1 Kota Banjar", "alamat": "JL. Dewi Sartika No. 29 Kota Banjar", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.4977, -7.359]}, "properties": {"npsn": "60727406", "nama_sekolah": "MTSS AL-KAUTSAR", "alamat": "JL. PEJUANG NO.100 KARANGPUCUNG WETAN", "kelurahan": "Jajawar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5306, -7.3713]}, "properties": {"npsn": "20279807", "nama_sekolah": "MTSS DARUL ULUM", "alamat": "DSN. KARANGPUCUNG RT. 028 RW. 010", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.4928, -7.3722]}, "properties": {"npsn": "20279806", "nama_sekolah": "MTSS MIFTAHUL HIDAYAH", "alamat": "JL PADEPOKAN CIPANTARAN", "kelurahan": "Cibeureum", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5243, -7.3677]}, "properties": {"npsn": "69896395", "nama_sekolah": "SD INSPIRATIF AL-ILHAM", "alamat": "JL. LOBAK NO. 519 RT. 04 RW. 15 LINGK. BANJAR KOLOT", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5271, -7.3733]}, "properties": {"npsn": "20225323", "nama_sekolah": "SD N 4 BANJAR", "alamat": "Lingkungan  Pintusinga No 27", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5034, -7.3656]}, "properties": {"npsn": "20225162", "nama_sekolah": "SD NEGERI 1 BALOKANG", "alamat": "Jl. Wijaya Kusuma RT. 45 RW. 14 Dusun Balokang", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5387, -7.3711]}, "properties": {"npsn": "20225163", "nama_sekolah": "SD NEGERI 1 BANJAR", "alamat": "Jalan Sudiro W  No. 52", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.4823, -7.3681]}, "properties": {"npsn": "20225291", "nama_sekolah": "SD NEGERI 1 CIBEUREUM", "alamat": "Dusun Pasirnagara RT 12 RW 03", "kelurahan": "Cibeureum", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.4938, -7.3547]}, "properties": {"npsn": "20225167", "nama_sekolah": "SD NEGERI 1 JAJAWAR", "alamat": "Dusun Karangpucung Kulon", "kelurahan": "Jajawar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5027, -7.3853]}, "properties": {"npsn": "20225303", "nama_sekolah": "SD NEGERI 1 NEGLASARI", "alamat": "Jl. Dr. Husein Kartasasmita No. 210", "kelurahan": "Neglasari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5062, -7.3709]}, "properties": {"npsn": "20225310", "nama_sekolah": "SD NEGERI 2 BALOKANG", "alamat": "Jalan Peta No 131", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5338, -7.3659]}, "properties": {"npsn": "20225300", "nama_sekolah": "SD NEGERI 2 BANJAR", "alamat": "Jln Dewi Sartika No 78", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.495647, -7.3828]}, "properties": {"npsn": "20225312", "nama_sekolah": "SD NEGERI 2 NEGLASARI", "alamat": "Dusun Warungbuah", "kelurahan": "Neglasari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.4819, -7.3824]}, "properties": {"npsn": "20225329", "nama_sekolah": "SD NEGERI 2 SITUBATU", "alamat": "Jalan Dr. Husein Kartasasmita No. 444", "kelurahan": "Situbatu", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5153, -7.3722]}, "properties": {"npsn": "20225331", "nama_sekolah": "SD NEGERI 3 BALOKANG", "alamat": "Jalan Peta No. 56", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5349, -7.3766]}, "properties": {"npsn": "20225316", "nama_sekolah": "SD NEGERI 3 MEKARSARI", "alamat": "Jl. Gotong Royong No. 268", "kelurahan": "Mekarsari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5042, -7.3863]}, "properties": {"npsn": "20225319", "nama_sekolah": "SD NEGERI 3 NEGLASARI", "alamat": "Jalan Dr. Husein Kartasasmita No. 287", "kelurahan": "Neglasari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.526718, -7.379862]}, "properties": {"npsn": "20225253", "nama_sekolah": "SD NEGERI 4 MEKARSARI", "alamat": "Jalan Gerilya Nomor 153", "kelurahan": "Mekarsari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5331, -7.3665]}, "properties": {"npsn": "20225258", "nama_sekolah": "SD NEGERI 5 BANJAR", "alamat": "Jl. Dewi Sartika Gang Jeruk RT. 001 RW. 008 Lingk. Parunglesang", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5352, -7.3832]}, "properties": {"npsn": "20225250", "nama_sekolah": "SD NEGERI 5 MEKARSARI", "alamat": "Jalan Tentara Pelajar No. 123A", "kelurahan": "Mekarsari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5201, -7.3653]}, "properties": {"npsn": "20225247", "nama_sekolah": "SD NEGERI 8 BANJAR", "alamat": "Jalan KH. Mustofa No. 21", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.532305, -7.386702]}, "properties": {"npsn": "69853539", "nama_sekolah": "SMP IT USWATUN HASANAH", "alamat": "Jalan Tentara Pelajar Sumanding Wetan", "kelurahan": "Mekarsari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.482015, -7.379348]}, "properties": {"npsn": "60724658", "nama_sekolah": "SMP Negeri 10 Banjar", "alamat": "Jalan Lapang Gotama", "kelurahan": "Situbatu", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5725, -7.3513]}, "properties": {"npsn": "20225297", "nama_sekolah": "SD NEGERI 2 MEKARHARJA", "alamat": "Jalan Balai Desa Mekarharja, No 228", "kelurahan": "Mekarharja", "kecamatan": "Purwaharja", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.536787, -7.359358]}, "properties": {"npsn": "20225326", "nama_sekolah": "SD NEGERI 2 PURWAHARJA", "alamat": "Jalan Brigjen M. Isya No. 118", "kelurahan": "Purwaharja", "kecamatan": "Purwaharja", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.562275, -7.361371]}, "properties": {"npsn": "20225327", "nama_sekolah": "SD NEGERI 2 RAHARJA", "alamat": "Jalan Raya Majenang No. 35", "kelurahan": "Raharja", "kecamatan": "Purwaharja", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.57241, -7.351122]}, "properties": {"npsn": "20225315", "nama_sekolah": "SD NEGERI 3 MEKARHARJA", "alamat": "Jalan Balai Desa Mekarharja No. 229", "kelurahan": "Mekarharja", "kecamatan": "Purwaharja", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5291, -7.3594]}, "properties": {"npsn": "69851445", "nama_sekolah": "SMP IT NURUL HAROMAIN", "alamat": "Jl. Raya Banjar Ciamis LIngk. Cipadung RT 09 Rw. 04", "kelurahan": "Purwaharja", "kecamatan": "Purwaharja", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.56, -7.3581]}, "properties": {"npsn": "20225286", "nama_sekolah": "SMP NEGERI 7 BANJAR", "alamat": "Jalan Siliwangi No. 181", "kelurahan": "Raharja", "kecamatan": "Purwaharja", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5692, -7.3675]}, "properties": {"npsn": "69956201", "nama_sekolah": "Al- Kasysyaf", "alamat": "Jl. Ir Purnomosidi No.304 Rt.02 Rw.15", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0002, 0.0004]}, "properties": {"npsn": "69976312", "nama_sekolah": "AS-SALAM", "alamat": "Jalan Veteran Dsn.Sukamaju RT.005 RW.005", "kelurahan": "Mulyasari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70055913", "nama_sekolah": "MI Al-MAQBUL", "alamat": "Jl. Purwanegara Lingk. Lembur Balong", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70048168", "nama_sekolah": "MI FASTABIQUL KHAIRAT", "alamat": "Lingkungan Jadimulya", "kelurahan": "Kec. Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5541, -7.3856]}, "properties": {"npsn": "60710137", "nama_sekolah": "MIN 1 Kota Banjar", "alamat": "Jl. Pelita No 105 Lingk. Pangadegan RT. 005 RW. 019", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5737, -7.3924]}, "properties": {"npsn": "60710138", "nama_sekolah": "MIS BATULAWANG", "alamat": "JLN. CIGADUNG RT. 04 RW. 03", "kelurahan": "Karyamukti", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5279, -7.3978]}, "properties": {"npsn": "60710139", "nama_sekolah": "MIS BINANGUN", "alamat": "JL. TENTARA PELAJAR NO.492", "kelurahan": "Binangun", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5482, -7.375]}, "properties": {"npsn": "20225518", "nama_sekolah": "MIS JELAT", "alamat": "JL. PATARUMAN GG. HIKMAH RT.01 RW.03 Kelurahan Pataruman Kecamatan Pataruman", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5729, -7.3779]}, "properties": {"npsn": "60710141", "nama_sekolah": "MIS PANATASAN", "alamat": "LINGK. PANATASAN RT 06 RW 14", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5407, -7.3807]}, "properties": {"npsn": "60710142", "nama_sekolah": "MIS PERSIS 85", "alamat": "JL. BATULAWANG NO. 47/A RT 05 RW 12", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5912, -7.3735]}, "properties": {"npsn": "60710143", "nama_sekolah": "MIS RANCAKOLE", "alamat": "RANCAKOLE", "kelurahan": "Mulyasari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70058910", "nama_sekolah": "MTS DARUL ISTIQOMAH", "alamat": "Jl. Pamarican Rt.03 Rw.13 Dusun Girimulya", "kelurahan": "Binangun", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5288, -7.4084]}, "properties": {"npsn": "60727407", "nama_sekolah": "MTSS FATHURROHMAN", "alamat": "JL. Tentara Pelajar Binangun", "kelurahan": "Binangun", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5771, -7.4074]}, "properties": {"npsn": "20279812", "nama_sekolah": "MTSS KARYAMUKTI", "alamat": "DUSUN CIGADUNG", "kelurahan": "Karyamukti", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5407, -7.3807]}, "properties": {"npsn": "20279811", "nama_sekolah": "MTSS PERSIS 85 BANJAR", "alamat": "JLN BATULAWANG 47A", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5687, -7.4082]}, "properties": {"npsn": "20246325", "nama_sekolah": "SD ISLAM TERPADU USWATUN HASANAH", "alamat": "Dusun Gudang Jalan Pegadaian No. 91", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5285658, -7.4074208]}, "properties": {"npsn": "20225165", "nama_sekolah": "SD NEGERI 1 BINANGUN", "alamat": "Jalan Tentara Pelajar No. 48", "kelurahan": "Binangun", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5442, -7.37]}, "properties": {"npsn": "20225168", "nama_sekolah": "SD NEGERI 1 HEGARSARI", "alamat": "Jl Bkr No 11 Kota Banjar", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5783958, -7.4087737]}, "properties": {"npsn": "20225170", "nama_sekolah": "SD NEGERI 1 KARYAMUKTI", "alamat": "Dusun  Cigadung Rt/rw. 09/04", "kelurahan": "Karyamukti", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5943711, -7.3736616]}, "properties": {"npsn": "20225302", "nama_sekolah": "SD NEGERI 1 MULYASARI", "alamat": "Jalan Langkap  Lancar No. 119", "kelurahan": "Mulyasari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5500771, -7.3740813]}, "properties": {"npsn": "20225304", "nama_sekolah": "SD NEGERI 1 PATARUMAN", "alamat": "Jl. Serbaguna No.410 Jelat", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5465, -7.4116]}, "properties": {"npsn": "20225299", "nama_sekolah": "SD NEGERI 1 SUKAMUKTI", "alamat": "Jalan Pangandaran Dsn. Sukamulya RT. 07 RW.02", "kelurahan": "Sukamukti", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5447, -7.3747]}, "properties": {"npsn": "20225309", "nama_sekolah": "SD NEGERI 10 HEGARSARI", "alamat": "Lingkungan Jadimulya RT 01 RW 07", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5641, -7.4177]}, "properties": {"npsn": "20225334", "nama_sekolah": "SD NEGERI 2 BATULAWANG", "alamat": "Dusun Cimanggu RT.08 RW.02", "kelurahan": "Batulawang", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5145, -7.3973]}, "properties": {"npsn": "20225289", "nama_sekolah": "SD NEGERI 2 BINANGUN", "alamat": "Dusun Priagung", "kelurahan": "Binangun", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.541, -7.3791]}, "properties": {"npsn": "20225292", "nama_sekolah": "SD NEGERI 2 HEGARSARI", "alamat": "Jln. Letjend Suwarto No. 181", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5881, -7.3941]}, "properties": {"npsn": "20225294", "nama_sekolah": "SD NEGERI 2 KARYAMUKTI", "alamat": "Karyamukti", "kelurahan": "Karyamukti", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5601, -7.3717]}, "properties": {"npsn": "20225313", "nama_sekolah": "SD NEGERI 2 PATARUMAN", "alamat": "Jln. Langkaplancar No. 53", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5394, -7.406]}, "properties": {"npsn": "20255757", "nama_sekolah": "SD NEGERI 2 SUKAMUKTI", "alamat": "Jln. Giri Mukti", "kelurahan": "Sukamukti", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5683, -7.4032]}, "properties": {"npsn": "20246316", "nama_sekolah": "SD NEGERI 3 BATULAWANG", "alamat": "Dusun Tundangan RT. 20 RW. 06", "kelurahan": "Batulawang", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5737, -7.4143]}, "properties": {"npsn": "20225325", "nama_sekolah": "SD NEGERI 3 KARYAMUKTI", "alamat": "Dusun Pabuaran", "kelurahan": "Karyamukti", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5681, -7.3678]}, "properties": {"npsn": "20225320", "nama_sekolah": "SD NEGERI 3 PATARUMAN", "alamat": "Jl. Ir. Purnomo Sidi Lingkungan Pataruman", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.54, -7.3876]}, "properties": {"npsn": "20225245", "nama_sekolah": "SD NEGERI 7 HEGARSARI", "alamat": "Jalan Pangandaran No. 154", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.54, -7.3876]}, "properties": {"npsn": "20225261", "nama_sekolah": "SD NEGERI 9 HEGARSARI", "alamat": "Jl Pangandaran No 298", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5682, -7.4155]}, "properties": {"npsn": "20225164", "nama_sekolah": "SD NEGERI I BATULAWANG", "alamat": "Jalan Cimanggu", "kelurahan": "Batulawang", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5855, -7.369]}, "properties": {"npsn": "20225311", "nama_sekolah": "SD NEGERI SINARTANJUNG", "alamat": "Jalan Ir. Purnomosidi No.163", "kelurahan": "SINARTANJUNG", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5423, -7.3751]}, "properties": {"npsn": "20253922", "nama_sekolah": "SDIT INSANTAMA", "alamat": "Jln. Kantor Pos Gg Rusa Nomor 237", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.602623, -7.3814721]}, "properties": {"npsn": "70044359", "nama_sekolah": "SMP IT AL-ITTIHAD", "alamat": "Dusun Margaluyu Rt 008 Rw 009", "kelurahan": "Mulyasari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5287, -7.409]}, "properties": {"npsn": "69979974", "nama_sekolah": "SMP IT ASSAEFIYAH", "alamat": "Jln. Tentara Pelajar Dusun Girimulya", "kelurahan": "Binangun", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5417591, -7.3802448]}, "properties": {"npsn": "70014444", "nama_sekolah": "SMP IT MUSTIKA", "alamat": "Jln. Batulawang Lingk. Cikabuyutan Timur Rt. 005 Rw. 012", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5428, -7.3695]}, "properties": {"npsn": "20225268", "nama_sekolah": "SMP NEGERI 1 BANJAR", "alamat": "Jl. BKR No. 1", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5431, -7.37]}, "properties": {"npsn": "20225269", "nama_sekolah": "SMP NEGERI 2 BANJAR", "alamat": "Jalan Bkr Nomor 16 Pataruman", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5646, -7.4175]}, "properties": {"npsn": "20225266", "nama_sekolah": "SMP NEGERI 9 BANJAR", "alamat": "Dsn. Cimanggu", "kelurahan": "Batulawang", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5728383, -7.3777887]}, "properties": {"npsn": "20253377", "nama_sekolah": "SMP PATROMAN", "alamat": "Lingkungan Panatasan Rt/rw : 03/20", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70058915", "nama_sekolah": "MI PLUS NURUL HUDA", "alamat": "Dusun Cijurey RT.003 RW.003", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6087, -7.3773]}, "properties": {"npsn": "60710131", "nama_sekolah": "MIS AT-TAUBAH", "alamat": "JL. PENGAIRAN NO.1 LANGKAP LANCAR", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6042, -7.3585]}, "properties": {"npsn": "20225367", "nama_sekolah": "MIS BANTARDAWA", "alamat": "Jln Kenanga Dusun Rancabulus Desa  Rejasari Kecamatan Langensari Kota Banjar", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6382, -7.3588]}, "properties": {"npsn": "60710133", "nama_sekolah": "MIS LANGENSARI", "alamat": "JLN PELITA NO 02 SINARGALIH RT. 01 RW. 02", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6208, -7.3894]}, "properties": {"npsn": "60710134", "nama_sekolah": "MIS SASAGARAN", "alamat": "DUSUN SINDANGMULYA", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6235, -7.3602]}, "properties": {"npsn": "60710135", "nama_sekolah": "MIS SINDANGGALIH", "alamat": "SINDANGGALIH RT 02/06", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6508, -7.354]}, "properties": {"npsn": "60710136", "nama_sekolah": "MIS WARINGINSARI", "alamat": "Purwodadi RT 12/04", "kelurahan": "Waringinsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6133, -7.3817]}, "properties": {"npsn": "20279808", "nama_sekolah": "MTsN 2 Kota Banjar", "alamat": "JL. PENGAIRAN PONDOK HUNI  NO. 156", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.62, -7.354]}, "properties": {"npsn": "20279810", "nama_sekolah": "MTSS SA AL-ABROR", "alamat": "DSN. RANCABULUS DS. REJASARI", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.612372, -7.385813]}, "properties": {"npsn": "20268229", "nama_sekolah": "SD IT Darul Hikam", "alamat": "Jalan Sasagaran Margasari Rt 02 Rw 05", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6603402, -7.3798405]}, "properties": {"npsn": "70036760", "nama_sekolah": "SD IT YAYASAN AL-FALAH", "alamat": "Jl.Pengairan PU no 7, Dusun Kedungaringin Rt 01/05", "kelurahan": "Waringinsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6377, -7.3514]}, "properties": {"npsn": "20225184", "nama_sekolah": "SD NEGERI 1 BANK JABAR LANGENSARI", "alamat": "Jalan Madjalikin No.252", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6041, -7.394]}, "properties": {"npsn": "20225171", "nama_sekolah": "SD NEGERI 1 KUJANGSARI", "alamat": "Dusun Cijurey Rt 05 Rw 03", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6422, -7.3649]}, "properties": {"npsn": "20225301", "nama_sekolah": "SD NEGERI 1 MUKTISARI", "alamat": "Lingkungan Langen RT 06  RW 01", "kelurahan": "Muktisari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6219, -7.3538]}, "properties": {"npsn": "20225307", "nama_sekolah": "SD NEGERI 1 REJASARI", "alamat": "Dusun Rancabulus RT 03 RW 04", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6081, -7.3741]}, "properties": {"npsn": "20225290", "nama_sekolah": "SD NEGERI 2 BOJONGKANTONG", "alamat": "Jln. Bojongsari No. 153", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6041, -7.394]}, "properties": {"npsn": "20225295", "nama_sekolah": "SD NEGERI 2 KUJANGSARI", "alamat": "Jalan Kujang No.19, Dusun Cijurey RT:05 RW:03", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6383, -7.368]}, "properties": {"npsn": "20225298", "nama_sekolah": "SD NEGERI 2 MUKTISARI", "alamat": "Lingkungan Sidamukti RT. 05 RW. 05", "kelurahan": "Muktisari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6244, -7.3645]}, "properties": {"npsn": "20225328", "nama_sekolah": "SD NEGERI 2 REJASARI", "alamat": "Dusun Sindanggalih", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6504, -7.3586]}, "properties": {"npsn": "20225330", "nama_sekolah": "SD NEGERI 2 WARINGINSARI", "alamat": "Jalan Pengairan Dusun Kedungwaringin Rt.07 Rw.06", "kelurahan": "Waringinsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6075, -7.3822]}, "properties": {"npsn": "20225335", "nama_sekolah": "SD NEGERI 3 BOJONGKANTONG", "alamat": "Dusun Margasari Rt.004 Rw.005", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6184, -7.3876]}, "properties": {"npsn": "20225324", "nama_sekolah": "SD NEGERI 3 KUJANGSARI", "alamat": "Dusun Sindangmulya", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6397, -7.3584]}, "properties": {"npsn": "20225314", "nama_sekolah": "SD NEGERI 3 LANGENSARI", "alamat": "Jl. Pelita II No. 4 Langensari", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6416, -7.3617]}, "properties": {"npsn": "20225317", "nama_sekolah": "SD NEGERI 3 MUKTISARI", "alamat": "Jln. Ir. Purnomo Sidi Nomor : 182 Lingkungan Langen   RT.03 RW.01", "kelurahan": "Muktisari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6237, -7.3603]}, "properties": {"npsn": "20225321", "nama_sekolah": "SD NEGERI 3 REJASARI", "alamat": "Dusun Sindanggalih  Rt 03 / Rw 06", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6507, -7.3594]}, "properties": {"npsn": "20225322", "nama_sekolah": "SD NEGERI 3 WARINGINSARI", "alamat": "Jalan Pengairan PU", "kelurahan": "Waringinsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6145, -7.3775]}, "properties": {"npsn": "20225287", "nama_sekolah": "SD NEGERI 4 BOJONGKANTONG", "alamat": "Lingkungan Langkaplancar Rt. 03 Rw. 01", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.62, -7.3917]}, "properties": {"npsn": "20225251", "nama_sekolah": "SD NEGERI 4 KUJANGSARI", "alamat": "Sindangmulya", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6284, -7.3538]}, "properties": {"npsn": "20225252", "nama_sekolah": "SD NEGERI 4 LANGENSARI", "alamat": "Jalan Garuda Gang Angkasa 03 No. 281 Karangmukti", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6367, -7.3641]}, "properties": {"npsn": "20225254", "nama_sekolah": "SD NEGERI 4 MUKTISARI", "alamat": "Lingkungan Sidamukti", "kelurahan": "Muktisari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.628, -7.372]}, "properties": {"npsn": "20225256", "nama_sekolah": "SD NEGERI 4 REJASARI", "alamat": "Jln. Wagino No 25", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6456, -7.3473]}, "properties": {"npsn": "20225240", "nama_sekolah": "SD NEGERI 5 WARINGINSARI", "alamat": "Dusun Sukanagara", "kelurahan": "Waringinsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6104, -7.3564]}, "properties": {"npsn": "20225244", "nama_sekolah": "SD NEGERI 6 REJASARI", "alamat": "Dusun Bantardawa", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6158, -7.3913]}, "properties": {"npsn": "20225246", "nama_sekolah": "SD NEGERI 7 KUJANGSARI", "alamat": "Jalan KALAPASABRANG", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6047, -7.3848]}, "properties": {"npsn": "20225274", "nama_sekolah": "SMP AL AZHAR CITANGKOLO", "alamat": "Jalan Pesantren No. 02", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6396, -7.3598]}, "properties": {"npsn": "20225264", "nama_sekolah": "SMP ISLAM LANGEN", "alamat": "Komplek Pesantren Mujtahidin", "kelurahan": "Muktisari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6124576, -7.3858309]}, "properties": {"npsn": "70012160", "nama_sekolah": "SMP IT Darul Hikam", "alamat": "Jln. Sasagaran RT. 002 Rw. 005", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.619669, -7.389434]}, "properties": {"npsn": "69985172", "nama_sekolah": "SMP MIFTAHURROHMAN AL BASYARI", "alamat": "Dsn. Sindangmulya RT. 003 RW. 010", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6087, -7.3823]}, "properties": {"npsn": "20225265", "nama_sekolah": "SMP MUHAMMADIYAH LANGKAPLANCAR", "alamat": "Jl. Pengairan No. 07", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6386, -7.3514]}, "properties": {"npsn": "20225271", "nama_sekolah": "SMP NEGERI 4 BANJAR", "alamat": "Jalan Madjalikin  No. 235 Langensari Kota Banjar", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6054, -7.3952]}, "properties": {"npsn": "20229664", "nama_sekolah": "SMP NEGERI 8 BANJAR", "alamat": "Jl. Raya Kujangsari", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6406, -7.3668]}, "properties": {"npsn": "20225267", "nama_sekolah": "SMP PGRI LANGEN", "alamat": "Jl Pahlawan No 27", "kelurahan": "Muktisari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6604, -7.3583]}, "properties": {"npsn": "69786640", "nama_sekolah": "SMPS ISLAM YAYASAN AL FALAH", "alamat": "Kedungwaringin RT/RW. 01/05, Desa Waringinsari, Kec. Langensari - Kota Banjar, K", "kelurahan": "Waringinsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6288, -7.3734]}, "properties": {"npsn": "69809658", "nama_sekolah": "SMPS PLUS AL-HILAL", "alamat": "Jl. Raya Banjar Km. 10 Sampih-Rejasari Kec. Langensari Kota Banjar", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5293, -7.3661]}, "properties": {"npsn": "20277088", "nama_sekolah": "MAN KOTA BANJAR", "alamat": "JL. DIPATIUKUR NO.26 PARUNGLESANG BANJAR", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.4976, -7.3588]}, "properties": {"npsn": "20277087", "nama_sekolah": "MAS AL KAUTSAR", "alamat": "JL. PEJUANG NO.100 KARANGPUCUNG WETAN, DESA JAJAWAR", "kelurahan": "Jajawar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5143, -7.3718]}, "properties": {"npsn": "20277089", "nama_sekolah": "MAS DAARUL HUDA", "alamat": "JL. Peta No. 58 Desa Balokang Kecamatan Banjar Kota Banjar", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5076, -7.3625]}, "properties": {"npsn": "20277090", "nama_sekolah": "MAS DARUL ULUM", "alamat": "DSN.KARANGPUCUNG, RT29/RW10, DS.BALOKANG, KEC.BANJAR, KOTA BANJAR-JAWA BARAT", "kelurahan": "Balokang", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5288, -7.3738]}, "properties": {"npsn": "20267661", "nama_sekolah": "SLB ABC PUTRA PASUNDAN 1", "alamat": "Jalan Gotong Royong", "kelurahan": "Mekarsari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.497797, -7.38328]}, "properties": {"npsn": "69786620", "nama_sekolah": "SLB DARUL ISHLAH", "alamat": "Jl. Lapang Dusun Warung Buah RT/RW. 31/16 Kec. Banjar Kota Banjar", "kelurahan": "Neglasari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.526683, -7.371295]}, "properties": {"npsn": "20225279", "nama_sekolah": "SMAN 1 BANJAR", "alamat": "JL. KH. MUSTOFA NO.1", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.525928, -7.371153]}, "properties": {"npsn": "20225278", "nama_sekolah": "SMAN 3 BANJAR", "alamat": "JL. KH Mustofa No. 117", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5232, -7.4021]}, "properties": {"npsn": "69974135", "nama_sekolah": "SMK BANJAR MANDIRI", "alamat": "Jl. Mayjen Lili Kusumah No 33 Kota Banjar", "kelurahan": "Situbatu", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.4789, -7.3818]}, "properties": {"npsn": "69935069", "nama_sekolah": "SMK MIFTAHUL IHSAN", "alamat": "LINGKUNGAN CISAUHEUN RT 021 RW 007", "kelurahan": "Situbatu", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.527, -7.3707]}, "properties": {"npsn": "20225282", "nama_sekolah": "SMKN 1 BANJAR", "alamat": "Jl. KH Mustopa Lingk. Parung Lesang RT 05 RW 10", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.522275, -7.372314]}, "properties": {"npsn": "60726572", "nama_sekolah": "SMKS BHAKTI KENCANA BANJAR", "alamat": "JL. DR. Husein Kartasasmita Dusun Gardu Lingkung Pintusinga No.2 Kota Banjar", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.535197, -7.385035]}, "properties": {"npsn": "20225284", "nama_sekolah": "SMKS BINA PUTERA BANJAR", "alamat": "JL. MAYJEND LILI KUSUMAH NO. 14", "kelurahan": "Mekarsari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5383, -7.3635]}, "properties": {"npsn": "20225281", "nama_sekolah": "SMKS HIKMAH BANJAR", "alamat": "Jalan Aliyani  Rt 1 Rw 7 Samping Waterpak Kota Banjar", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5269, -7.3742]}, "properties": {"npsn": "60728389", "nama_sekolah": "SMKS MAARIF NU BANJAR", "alamat": "JALAN DR. HUSEN KARTASASMITA NO.47 BANJAR", "kelurahan": "Banjar", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.536157, -7.381382]}, "properties": {"npsn": "20225283", "nama_sekolah": "SMKS PASUNDAN 1 BANJAR", "alamat": "JL. TENTARA PELAJAR NO. 158", "kelurahan": "Mekarsari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.535512, -7.381142]}, "properties": {"npsn": "20225275", "nama_sekolah": "SMKS PASUNDAN 2 BANJAR", "alamat": "JL. TENTARA PELAJAR NO. 158", "kelurahan": "Mekarsari", "kecamatan": "Banjar", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5720873, -7.3481033]}, "properties": {"npsn": "69954421", "nama_sekolah": "SMK NU 2 BANJAR", "alamat": "Dusun Randegan II Rt. 30 Rw. 13", "kelurahan": "Raharja", "kecamatan": "Purwaharja", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.529503, -7.360291]}, "properties": {"npsn": "20229665", "nama_sekolah": "SMKN 2 BANJAR", "alamat": "JL. RAYA BANJAR-CIAMIS DSN.CIPADUNG", "kelurahan": "Purwaharja", "kecamatan": "Purwaharja", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5287, -7.4085]}, "properties": {"npsn": "69955730", "nama_sekolah": "Fathurrohman", "alamat": "Jl. Tentara Pelajar No.528 Dusun Girimulya", "kelurahan": "Binangun", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5407, -7.3807]}, "properties": {"npsn": "20277091", "nama_sekolah": "MAS PERSIS 85", "alamat": "JL. BATULAWANG NO.47 A", "kelurahan": "Hegarsari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5797, -7.3855]}, "properties": {"npsn": "60729212", "nama_sekolah": "SLB Mekar Mandiri Batulawang", "alamat": "Dusun Tundagan RT 19 RW 06", "kelurahan": "Batulawang", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5534, -7.3739]}, "properties": {"npsn": "60724655", "nama_sekolah": "SLB Negeri Banjar", "alamat": "Jln.Jelat-pataruman", "kelurahan": "Pataruman", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5449, -7.4108]}, "properties": {"npsn": "60728393", "nama_sekolah": "SMKN 4 BANJAR", "alamat": "JALAN RAYA BANJAR-PANGANDARAN", "kelurahan": "Sukamukti", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6023, -7.3827]}, "properties": {"npsn": "20253667", "nama_sekolah": "SMKS AL AZHAR BANJAR", "alamat": "JL. RAYA LANGENSARI - BANJAR", "kelurahan": "Mulyasari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.5939, -7.3735]}, "properties": {"npsn": "20225285", "nama_sekolah": "SMKS MUHAMMADIYAH BANJAR", "alamat": "Jalan Raya Pataruman No. 235 Dusun Sukamaju RT 2 RW 4", "kelurahan": "Mulyasari", "kecamatan": "Pataruman", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70058911", "nama_sekolah": "MA AL HUFAZ MAHARDIKA", "alamat": "Dusun Sirnagalih Rt.02 Rw.04", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70026162", "nama_sekolah": "MA ASSANUSIYAH", "alamat": "Komp. Makam Syekh Sanusi Dsn. Sukahurip 05/03, Kode Pos 46324", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70059754", "nama_sekolah": "MA DARUL HIKAM", "alamat": "Lingk. Margasari Rt.002 Rw,005", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70059141", "nama_sekolah": "MA MA'ARIF NU AL-HILAL", "alamat": "Jl. Raya Banjar Langensari Km.10 Dusun Sampih Rt.04 Rw.08", "kelurahan": "Rejasari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.604483, -7.384923]}, "properties": {"npsn": "20277086", "nama_sekolah": "MAS AL AZHAR", "alamat": "JL. PESANTREN NO. 02 CITANGKOLO", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6123, -7.381]}, "properties": {"npsn": "20277092", "nama_sekolah": "MAS YABA AL-MA ARIF", "alamat": "JL. PENGAIRAN PONDOK HUNI NO.152", "kelurahan": "Bojongkantong", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6368, -7.3683]}, "properties": {"npsn": "60724654", "nama_sekolah": "SLB Negeri Langensari", "alamat": "Jalan Banjar - Langen", "kelurahan": "Muktisari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6361, -7.3507]}, "properties": {"npsn": "20225280", "nama_sekolah": "SMAN 2 BANJAR", "alamat": "Jl. KH. Muhamad Sanusi", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.6032, -7.3847]}, "properties": {"npsn": "20225276", "nama_sekolah": "SMAS AL AZHAR", "alamat": "JL. PESANTREN NO.2", "kelurahan": "Kujangsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.635, -7.3513]}, "properties": {"npsn": "20254663", "nama_sekolah": "SMKN 3 BANJAR", "alamat": "JL. JULAENI", "kelurahan": "Langensari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [108.660433, -7.358413]}, "properties": {"npsn": "20254187", "nama_sekolah": "SMKS TEKNOLOGI YAYASAN AL FALAH", "alamat": "PENGAIRAN PU, NO. 7, KEDUNGWARINGIN, KEC. LANGENSARI", "kelurahan": "Waringinsari", "kecamatan": "Langensari", "kabupaten": "Kota Banjar", "status": "SWASTA", "bentuk": ""}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5181,
+          -7.3686
+        ]
+      },
+      "properties": {
+        "npsn": "69955962",
+        "nama_sekolah": "Cibeunteur",
+        "alamat": "Dusun Gardu No.48 Rt.021 Rw.007",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70044549",
+        "nama_sekolah": "MI ALAM MAFAAZA",
+        "alamat": "Jl.Dipatiukur Gg.RSA RT.01 RW.10 Lingk. Parunglesang",
+        "kelurahan": "Kec. Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5067,
+          -7.3626
+        ]
+      },
+      "properties": {
+        "npsn": "60710124",
+        "nama_sekolah": "MIN 3 Kota Banjar",
+        "alamat": "KARANG PUCUNG",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5372,
+          -7.3672
+        ]
+      },
+      "properties": {
+        "npsn": "60710125",
+        "nama_sekolah": "MIS BANJAR 2",
+        "alamat": "JL. MASJID AGUNG GG. KANCRA NO.184 RT.02/05 CIBULAN BANJAR",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5104,
+          -7.3975
+        ]
+      },
+      "properties": {
+        "npsn": "60710126",
+        "nama_sekolah": "MIS BANTARSARI",
+        "alamat": "DSN. CIKAPUNDUNG RT. 36 RW. 18",
+        "kelurahan": "Neglasari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5182,
+          -7.3689
+        ]
+      },
+      "properties": {
+        "npsn": "60710127",
+        "nama_sekolah": "MIS CIBEUNTEUR",
+        "alamat": "Jl. Cibeunteur No. 48 Dusun Gardu RT. 021 RW. 007",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4895,
+          -7.3731
+        ]
+      },
+      "properties": {
+        "npsn": "60710128",
+        "nama_sekolah": "MIS CIBONTE",
+        "alamat": "Lingkungan Awiluar RT 13/04",
+        "kelurahan": "Situbatu",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.533953,
+          -7.3665829
+        ]
+      },
+      "properties": {
+        "npsn": "20279804",
+        "nama_sekolah": "MTsN 1 Kota Banjar",
+        "alamat": "JL. Dewi Sartika No. 29 Kota Banjar",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4977,
+          -7.359
+        ]
+      },
+      "properties": {
+        "npsn": "60727406",
+        "nama_sekolah": "MTSS AL-KAUTSAR",
+        "alamat": "JL. PEJUANG NO.100 KARANGPUCUNG WETAN",
+        "kelurahan": "Jajawar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5306,
+          -7.3713
+        ]
+      },
+      "properties": {
+        "npsn": "20279807",
+        "nama_sekolah": "MTSS DARUL ULUM",
+        "alamat": "DSN. KARANGPUCUNG RT. 028 RW. 010",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4928,
+          -7.3722
+        ]
+      },
+      "properties": {
+        "npsn": "20279806",
+        "nama_sekolah": "MTSS MIFTAHUL HIDAYAH",
+        "alamat": "JL PADEPOKAN CIPANTARAN",
+        "kelurahan": "Cibeureum",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5243,
+          -7.3677
+        ]
+      },
+      "properties": {
+        "npsn": "69896395",
+        "nama_sekolah": "SD INSPIRATIF AL-ILHAM",
+        "alamat": "JL. LOBAK NO. 519 RT. 04 RW. 15 LINGK. BANJAR KOLOT",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5271,
+          -7.3733
+        ]
+      },
+      "properties": {
+        "npsn": "20225323",
+        "nama_sekolah": "SD N 4 BANJAR",
+        "alamat": "Lingkungan  Pintusinga No 27",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5034,
+          -7.3656
+        ]
+      },
+      "properties": {
+        "npsn": "20225162",
+        "nama_sekolah": "SD NEGERI 1 BALOKANG",
+        "alamat": "Jl. Wijaya Kusuma RT. 45 RW. 14 Dusun Balokang",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5387,
+          -7.3711
+        ]
+      },
+      "properties": {
+        "npsn": "20225163",
+        "nama_sekolah": "SD NEGERI 1 BANJAR",
+        "alamat": "Jalan Sudiro W  No. 52",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4823,
+          -7.3681
+        ]
+      },
+      "properties": {
+        "npsn": "20225291",
+        "nama_sekolah": "SD NEGERI 1 CIBEUREUM",
+        "alamat": "Dusun Pasirnagara RT 12 RW 03",
+        "kelurahan": "Cibeureum",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4938,
+          -7.3547
+        ]
+      },
+      "properties": {
+        "npsn": "20225167",
+        "nama_sekolah": "SD NEGERI 1 JAJAWAR",
+        "alamat": "Dusun Karangpucung Kulon",
+        "kelurahan": "Jajawar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5027,
+          -7.3853
+        ]
+      },
+      "properties": {
+        "npsn": "20225303",
+        "nama_sekolah": "SD NEGERI 1 NEGLASARI",
+        "alamat": "Jl. Dr. Husein Kartasasmita No. 210",
+        "kelurahan": "Neglasari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5062,
+          -7.3709
+        ]
+      },
+      "properties": {
+        "npsn": "20225310",
+        "nama_sekolah": "SD NEGERI 2 BALOKANG",
+        "alamat": "Jalan Peta No 131",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5338,
+          -7.3659
+        ]
+      },
+      "properties": {
+        "npsn": "20225300",
+        "nama_sekolah": "SD NEGERI 2 BANJAR",
+        "alamat": "Jln Dewi Sartika No 78",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.495647,
+          -7.3828
+        ]
+      },
+      "properties": {
+        "npsn": "20225312",
+        "nama_sekolah": "SD NEGERI 2 NEGLASARI",
+        "alamat": "Dusun Warungbuah",
+        "kelurahan": "Neglasari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4819,
+          -7.3824
+        ]
+      },
+      "properties": {
+        "npsn": "20225329",
+        "nama_sekolah": "SD NEGERI 2 SITUBATU",
+        "alamat": "Jalan Dr. Husein Kartasasmita No. 444",
+        "kelurahan": "Situbatu",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5153,
+          -7.3722
+        ]
+      },
+      "properties": {
+        "npsn": "20225331",
+        "nama_sekolah": "SD NEGERI 3 BALOKANG",
+        "alamat": "Jalan Peta No. 56",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5349,
+          -7.3766
+        ]
+      },
+      "properties": {
+        "npsn": "20225316",
+        "nama_sekolah": "SD NEGERI 3 MEKARSARI",
+        "alamat": "Jl. Gotong Royong No. 268",
+        "kelurahan": "Mekarsari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5042,
+          -7.3863
+        ]
+      },
+      "properties": {
+        "npsn": "20225319",
+        "nama_sekolah": "SD NEGERI 3 NEGLASARI",
+        "alamat": "Jalan Dr. Husein Kartasasmita No. 287",
+        "kelurahan": "Neglasari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.526718,
+          -7.379862
+        ]
+      },
+      "properties": {
+        "npsn": "20225253",
+        "nama_sekolah": "SD NEGERI 4 MEKARSARI",
+        "alamat": "Jalan Gerilya Nomor 153",
+        "kelurahan": "Mekarsari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5331,
+          -7.3665
+        ]
+      },
+      "properties": {
+        "npsn": "20225258",
+        "nama_sekolah": "SD NEGERI 5 BANJAR",
+        "alamat": "Jl. Dewi Sartika Gang Jeruk RT. 001 RW. 008 Lingk. Parunglesang",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5352,
+          -7.3832
+        ]
+      },
+      "properties": {
+        "npsn": "20225250",
+        "nama_sekolah": "SD NEGERI 5 MEKARSARI",
+        "alamat": "Jalan Tentara Pelajar No. 123A",
+        "kelurahan": "Mekarsari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5201,
+          -7.3653
+        ]
+      },
+      "properties": {
+        "npsn": "20225247",
+        "nama_sekolah": "SD NEGERI 8 BANJAR",
+        "alamat": "Jalan KH. Mustofa No. 21",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.532305,
+          -7.386702
+        ]
+      },
+      "properties": {
+        "npsn": "69853539",
+        "nama_sekolah": "SMP IT USWATUN HASANAH",
+        "alamat": "Jalan Tentara Pelajar Sumanding Wetan",
+        "kelurahan": "Mekarsari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.482015,
+          -7.379348
+        ]
+      },
+      "properties": {
+        "npsn": "60724658",
+        "nama_sekolah": "SMP Negeri 10 Banjar",
+        "alamat": "Jalan Lapang Gotama",
+        "kelurahan": "Situbatu",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5725,
+          -7.3513
+        ]
+      },
+      "properties": {
+        "npsn": "20225297",
+        "nama_sekolah": "SD NEGERI 2 MEKARHARJA",
+        "alamat": "Jalan Balai Desa Mekarharja, No 228",
+        "kelurahan": "Mekarharja",
+        "kecamatan": "Purwaharja",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.536787,
+          -7.359358
+        ]
+      },
+      "properties": {
+        "npsn": "20225326",
+        "nama_sekolah": "SD NEGERI 2 PURWAHARJA",
+        "alamat": "Jalan Brigjen M. Isya No. 118",
+        "kelurahan": "Purwaharja",
+        "kecamatan": "Purwaharja",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.562275,
+          -7.361371
+        ]
+      },
+      "properties": {
+        "npsn": "20225327",
+        "nama_sekolah": "SD NEGERI 2 RAHARJA",
+        "alamat": "Jalan Raya Majenang No. 35",
+        "kelurahan": "Raharja",
+        "kecamatan": "Purwaharja",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.57241,
+          -7.351122
+        ]
+      },
+      "properties": {
+        "npsn": "20225315",
+        "nama_sekolah": "SD NEGERI 3 MEKARHARJA",
+        "alamat": "Jalan Balai Desa Mekarharja No. 229",
+        "kelurahan": "Mekarharja",
+        "kecamatan": "Purwaharja",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5291,
+          -7.3594
+        ]
+      },
+      "properties": {
+        "npsn": "69851445",
+        "nama_sekolah": "SMP IT NURUL HAROMAIN",
+        "alamat": "Jl. Raya Banjar Ciamis LIngk. Cipadung RT 09 Rw. 04",
+        "kelurahan": "Purwaharja",
+        "kecamatan": "Purwaharja",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.56,
+          -7.3581
+        ]
+      },
+      "properties": {
+        "npsn": "20225286",
+        "nama_sekolah": "SMP NEGERI 7 BANJAR",
+        "alamat": "Jalan Siliwangi No. 181",
+        "kelurahan": "Raharja",
+        "kecamatan": "Purwaharja",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5692,
+          -7.3675
+        ]
+      },
+      "properties": {
+        "npsn": "69956201",
+        "nama_sekolah": "Al- Kasysyaf",
+        "alamat": "Jl. Ir Purnomosidi No.304 Rt.02 Rw.15",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0002,
+          0.0004
+        ]
+      },
+      "properties": {
+        "npsn": "69976312",
+        "nama_sekolah": "AS-SALAM",
+        "alamat": "Jalan Veteran Dsn.Sukamaju RT.005 RW.005",
+        "kelurahan": "Mulyasari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70055913",
+        "nama_sekolah": "MI Al-MAQBUL",
+        "alamat": "Jl. Purwanegara Lingk. Lembur Balong",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70048168",
+        "nama_sekolah": "MI FASTABIQUL KHAIRAT",
+        "alamat": "Lingkungan Jadimulya",
+        "kelurahan": "Kec. Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5541,
+          -7.3856
+        ]
+      },
+      "properties": {
+        "npsn": "60710137",
+        "nama_sekolah": "MIN 1 Kota Banjar",
+        "alamat": "Jl. Pelita No 105 Lingk. Pangadegan RT. 005 RW. 019",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5737,
+          -7.3924
+        ]
+      },
+      "properties": {
+        "npsn": "60710138",
+        "nama_sekolah": "MIS BATULAWANG",
+        "alamat": "JLN. CIGADUNG RT. 04 RW. 03",
+        "kelurahan": "Karyamukti",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5279,
+          -7.3978
+        ]
+      },
+      "properties": {
+        "npsn": "60710139",
+        "nama_sekolah": "MIS BINANGUN",
+        "alamat": "JL. TENTARA PELAJAR NO.492",
+        "kelurahan": "Binangun",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5482,
+          -7.375
+        ]
+      },
+      "properties": {
+        "npsn": "20225518",
+        "nama_sekolah": "MIS JELAT",
+        "alamat": "JL. PATARUMAN GG. HIKMAH RT.01 RW.03 Kelurahan Pataruman Kecamatan Pataruman",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5729,
+          -7.3779
+        ]
+      },
+      "properties": {
+        "npsn": "60710141",
+        "nama_sekolah": "MIS PANATASAN",
+        "alamat": "LINGK. PANATASAN RT 06 RW 14",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5407,
+          -7.3807
+        ]
+      },
+      "properties": {
+        "npsn": "60710142",
+        "nama_sekolah": "MIS PERSIS 85",
+        "alamat": "JL. BATULAWANG NO. 47/A RT 05 RW 12",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5912,
+          -7.3735
+        ]
+      },
+      "properties": {
+        "npsn": "60710143",
+        "nama_sekolah": "MIS RANCAKOLE",
+        "alamat": "RANCAKOLE",
+        "kelurahan": "Mulyasari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70058910",
+        "nama_sekolah": "MTS DARUL ISTIQOMAH",
+        "alamat": "Jl. Pamarican Rt.03 Rw.13 Dusun Girimulya",
+        "kelurahan": "Binangun",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5288,
+          -7.4084
+        ]
+      },
+      "properties": {
+        "npsn": "60727407",
+        "nama_sekolah": "MTSS FATHURROHMAN",
+        "alamat": "JL. Tentara Pelajar Binangun",
+        "kelurahan": "Binangun",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5771,
+          -7.4074
+        ]
+      },
+      "properties": {
+        "npsn": "20279812",
+        "nama_sekolah": "MTSS KARYAMUKTI",
+        "alamat": "DUSUN CIGADUNG",
+        "kelurahan": "Karyamukti",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5407,
+          -7.3807
+        ]
+      },
+      "properties": {
+        "npsn": "20279811",
+        "nama_sekolah": "MTSS PERSIS 85 BANJAR",
+        "alamat": "JLN BATULAWANG 47A",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5687,
+          -7.4082
+        ]
+      },
+      "properties": {
+        "npsn": "20246325",
+        "nama_sekolah": "SD ISLAM TERPADU USWATUN HASANAH",
+        "alamat": "Dusun Gudang Jalan Pegadaian No. 91",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5285658,
+          -7.4074208
+        ]
+      },
+      "properties": {
+        "npsn": "20225165",
+        "nama_sekolah": "SD NEGERI 1 BINANGUN",
+        "alamat": "Jalan Tentara Pelajar No. 48",
+        "kelurahan": "Binangun",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5442,
+          -7.37
+        ]
+      },
+      "properties": {
+        "npsn": "20225168",
+        "nama_sekolah": "SD NEGERI 1 HEGARSARI",
+        "alamat": "Jl Bkr No 11 Kota Banjar",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5783958,
+          -7.4087737
+        ]
+      },
+      "properties": {
+        "npsn": "20225170",
+        "nama_sekolah": "SD NEGERI 1 KARYAMUKTI",
+        "alamat": "Dusun  Cigadung Rt/rw. 09/04",
+        "kelurahan": "Karyamukti",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5943711,
+          -7.3736616
+        ]
+      },
+      "properties": {
+        "npsn": "20225302",
+        "nama_sekolah": "SD NEGERI 1 MULYASARI",
+        "alamat": "Jalan Langkap  Lancar No. 119",
+        "kelurahan": "Mulyasari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5500771,
+          -7.3740813
+        ]
+      },
+      "properties": {
+        "npsn": "20225304",
+        "nama_sekolah": "SD NEGERI 1 PATARUMAN",
+        "alamat": "Jl. Serbaguna No.410 Jelat",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5465,
+          -7.4116
+        ]
+      },
+      "properties": {
+        "npsn": "20225299",
+        "nama_sekolah": "SD NEGERI 1 SUKAMUKTI",
+        "alamat": "Jalan Pangandaran Dsn. Sukamulya RT. 07 RW.02",
+        "kelurahan": "Sukamukti",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5447,
+          -7.3747
+        ]
+      },
+      "properties": {
+        "npsn": "20225309",
+        "nama_sekolah": "SD NEGERI 10 HEGARSARI",
+        "alamat": "Lingkungan Jadimulya RT 01 RW 07",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5641,
+          -7.4177
+        ]
+      },
+      "properties": {
+        "npsn": "20225334",
+        "nama_sekolah": "SD NEGERI 2 BATULAWANG",
+        "alamat": "Dusun Cimanggu RT.08 RW.02",
+        "kelurahan": "Batulawang",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5145,
+          -7.3973
+        ]
+      },
+      "properties": {
+        "npsn": "20225289",
+        "nama_sekolah": "SD NEGERI 2 BINANGUN",
+        "alamat": "Dusun Priagung",
+        "kelurahan": "Binangun",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.541,
+          -7.3791
+        ]
+      },
+      "properties": {
+        "npsn": "20225292",
+        "nama_sekolah": "SD NEGERI 2 HEGARSARI",
+        "alamat": "Jln. Letjend Suwarto No. 181",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5881,
+          -7.3941
+        ]
+      },
+      "properties": {
+        "npsn": "20225294",
+        "nama_sekolah": "SD NEGERI 2 KARYAMUKTI",
+        "alamat": "Karyamukti",
+        "kelurahan": "Karyamukti",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5601,
+          -7.3717
+        ]
+      },
+      "properties": {
+        "npsn": "20225313",
+        "nama_sekolah": "SD NEGERI 2 PATARUMAN",
+        "alamat": "Jln. Langkaplancar No. 53",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5394,
+          -7.406
+        ]
+      },
+      "properties": {
+        "npsn": "20255757",
+        "nama_sekolah": "SD NEGERI 2 SUKAMUKTI",
+        "alamat": "Jln. Giri Mukti",
+        "kelurahan": "Sukamukti",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5683,
+          -7.4032
+        ]
+      },
+      "properties": {
+        "npsn": "20246316",
+        "nama_sekolah": "SD NEGERI 3 BATULAWANG",
+        "alamat": "Dusun Tundangan RT. 20 RW. 06",
+        "kelurahan": "Batulawang",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5737,
+          -7.4143
+        ]
+      },
+      "properties": {
+        "npsn": "20225325",
+        "nama_sekolah": "SD NEGERI 3 KARYAMUKTI",
+        "alamat": "Dusun Pabuaran",
+        "kelurahan": "Karyamukti",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5681,
+          -7.3678
+        ]
+      },
+      "properties": {
+        "npsn": "20225320",
+        "nama_sekolah": "SD NEGERI 3 PATARUMAN",
+        "alamat": "Jl. Ir. Purnomo Sidi Lingkungan Pataruman",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.54,
+          -7.3876
+        ]
+      },
+      "properties": {
+        "npsn": "20225245",
+        "nama_sekolah": "SD NEGERI 7 HEGARSARI",
+        "alamat": "Jalan Pangandaran No. 154",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.54,
+          -7.3876
+        ]
+      },
+      "properties": {
+        "npsn": "20225261",
+        "nama_sekolah": "SD NEGERI 9 HEGARSARI",
+        "alamat": "Jl Pangandaran No 298",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5682,
+          -7.4155
+        ]
+      },
+      "properties": {
+        "npsn": "20225164",
+        "nama_sekolah": "SD NEGERI I BATULAWANG",
+        "alamat": "Jalan Cimanggu",
+        "kelurahan": "Batulawang",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5855,
+          -7.369
+        ]
+      },
+      "properties": {
+        "npsn": "20225311",
+        "nama_sekolah": "SD NEGERI SINARTANJUNG",
+        "alamat": "Jalan Ir. Purnomosidi No.163",
+        "kelurahan": "SINARTANJUNG",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5423,
+          -7.3751
+        ]
+      },
+      "properties": {
+        "npsn": "20253922",
+        "nama_sekolah": "SDIT INSANTAMA",
+        "alamat": "Jln. Kantor Pos Gg Rusa Nomor 237",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.602623,
+          -7.3814721
+        ]
+      },
+      "properties": {
+        "npsn": "70044359",
+        "nama_sekolah": "SMP IT AL-ITTIHAD",
+        "alamat": "Dusun Margaluyu Rt 008 Rw 009",
+        "kelurahan": "Mulyasari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5287,
+          -7.409
+        ]
+      },
+      "properties": {
+        "npsn": "69979974",
+        "nama_sekolah": "SMP IT ASSAEFIYAH",
+        "alamat": "Jln. Tentara Pelajar Dusun Girimulya",
+        "kelurahan": "Binangun",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5417591,
+          -7.3802448
+        ]
+      },
+      "properties": {
+        "npsn": "70014444",
+        "nama_sekolah": "SMP IT MUSTIKA",
+        "alamat": "Jln. Batulawang Lingk. Cikabuyutan Timur Rt. 005 Rw. 012",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5428,
+          -7.3695
+        ]
+      },
+      "properties": {
+        "npsn": "20225268",
+        "nama_sekolah": "SMP NEGERI 1 BANJAR",
+        "alamat": "Jl. BKR No. 1",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5431,
+          -7.37
+        ]
+      },
+      "properties": {
+        "npsn": "20225269",
+        "nama_sekolah": "SMP NEGERI 2 BANJAR",
+        "alamat": "Jalan Bkr Nomor 16 Pataruman",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5646,
+          -7.4175
+        ]
+      },
+      "properties": {
+        "npsn": "20225266",
+        "nama_sekolah": "SMP NEGERI 9 BANJAR",
+        "alamat": "Dsn. Cimanggu",
+        "kelurahan": "Batulawang",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5728383,
+          -7.3777887
+        ]
+      },
+      "properties": {
+        "npsn": "20253377",
+        "nama_sekolah": "SMP PATROMAN",
+        "alamat": "Lingkungan Panatasan Rt/rw : 03/20",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70058915",
+        "nama_sekolah": "MI PLUS NURUL HUDA",
+        "alamat": "Dusun Cijurey RT.003 RW.003",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6087,
+          -7.3773
+        ]
+      },
+      "properties": {
+        "npsn": "60710131",
+        "nama_sekolah": "MIS AT-TAUBAH",
+        "alamat": "JL. PENGAIRAN NO.1 LANGKAP LANCAR",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6042,
+          -7.3585
+        ]
+      },
+      "properties": {
+        "npsn": "20225367",
+        "nama_sekolah": "MIS BANTARDAWA",
+        "alamat": "Jln Kenanga Dusun Rancabulus Desa  Rejasari Kecamatan Langensari Kota Banjar",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6382,
+          -7.3588
+        ]
+      },
+      "properties": {
+        "npsn": "60710133",
+        "nama_sekolah": "MIS LANGENSARI",
+        "alamat": "JLN PELITA NO 02 SINARGALIH RT. 01 RW. 02",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6208,
+          -7.3894
+        ]
+      },
+      "properties": {
+        "npsn": "60710134",
+        "nama_sekolah": "MIS SASAGARAN",
+        "alamat": "DUSUN SINDANGMULYA",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6235,
+          -7.3602
+        ]
+      },
+      "properties": {
+        "npsn": "60710135",
+        "nama_sekolah": "MIS SINDANGGALIH",
+        "alamat": "SINDANGGALIH RT 02/06",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6508,
+          -7.354
+        ]
+      },
+      "properties": {
+        "npsn": "60710136",
+        "nama_sekolah": "MIS WARINGINSARI",
+        "alamat": "Purwodadi RT 12/04",
+        "kelurahan": "Waringinsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6133,
+          -7.3817
+        ]
+      },
+      "properties": {
+        "npsn": "20279808",
+        "nama_sekolah": "MTsN 2 Kota Banjar",
+        "alamat": "JL. PENGAIRAN PONDOK HUNI  NO. 156",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.62,
+          -7.354
+        ]
+      },
+      "properties": {
+        "npsn": "20279810",
+        "nama_sekolah": "MTSS SA AL-ABROR",
+        "alamat": "DSN. RANCABULUS DS. REJASARI",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.612372,
+          -7.385813
+        ]
+      },
+      "properties": {
+        "npsn": "20268229",
+        "nama_sekolah": "SD IT Darul Hikam",
+        "alamat": "Jalan Sasagaran Margasari Rt 02 Rw 05",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6603402,
+          -7.3798405
+        ]
+      },
+      "properties": {
+        "npsn": "70036760",
+        "nama_sekolah": "SD IT YAYASAN AL-FALAH",
+        "alamat": "Jl.Pengairan PU no 7, Dusun Kedungaringin Rt 01/05",
+        "kelurahan": "Waringinsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6377,
+          -7.3514
+        ]
+      },
+      "properties": {
+        "npsn": "20225184",
+        "nama_sekolah": "SD NEGERI 1 BANK JABAR LANGENSARI",
+        "alamat": "Jalan Madjalikin No.252",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6041,
+          -7.394
+        ]
+      },
+      "properties": {
+        "npsn": "20225171",
+        "nama_sekolah": "SD NEGERI 1 KUJANGSARI",
+        "alamat": "Dusun Cijurey Rt 05 Rw 03",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6422,
+          -7.3649
+        ]
+      },
+      "properties": {
+        "npsn": "20225301",
+        "nama_sekolah": "SD NEGERI 1 MUKTISARI",
+        "alamat": "Lingkungan Langen RT 06  RW 01",
+        "kelurahan": "Muktisari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6219,
+          -7.3538
+        ]
+      },
+      "properties": {
+        "npsn": "20225307",
+        "nama_sekolah": "SD NEGERI 1 REJASARI",
+        "alamat": "Dusun Rancabulus RT 03 RW 04",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6081,
+          -7.3741
+        ]
+      },
+      "properties": {
+        "npsn": "20225290",
+        "nama_sekolah": "SD NEGERI 2 BOJONGKANTONG",
+        "alamat": "Jln. Bojongsari No. 153",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6041,
+          -7.394
+        ]
+      },
+      "properties": {
+        "npsn": "20225295",
+        "nama_sekolah": "SD NEGERI 2 KUJANGSARI",
+        "alamat": "Jalan Kujang No.19, Dusun Cijurey RT:05 RW:03",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6383,
+          -7.368
+        ]
+      },
+      "properties": {
+        "npsn": "20225298",
+        "nama_sekolah": "SD NEGERI 2 MUKTISARI",
+        "alamat": "Lingkungan Sidamukti RT. 05 RW. 05",
+        "kelurahan": "Muktisari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6244,
+          -7.3645
+        ]
+      },
+      "properties": {
+        "npsn": "20225328",
+        "nama_sekolah": "SD NEGERI 2 REJASARI",
+        "alamat": "Dusun Sindanggalih",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6504,
+          -7.3586
+        ]
+      },
+      "properties": {
+        "npsn": "20225330",
+        "nama_sekolah": "SD NEGERI 2 WARINGINSARI",
+        "alamat": "Jalan Pengairan Dusun Kedungwaringin Rt.07 Rw.06",
+        "kelurahan": "Waringinsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6075,
+          -7.3822
+        ]
+      },
+      "properties": {
+        "npsn": "20225335",
+        "nama_sekolah": "SD NEGERI 3 BOJONGKANTONG",
+        "alamat": "Dusun Margasari Rt.004 Rw.005",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6184,
+          -7.3876
+        ]
+      },
+      "properties": {
+        "npsn": "20225324",
+        "nama_sekolah": "SD NEGERI 3 KUJANGSARI",
+        "alamat": "Dusun Sindangmulya",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6397,
+          -7.3584
+        ]
+      },
+      "properties": {
+        "npsn": "20225314",
+        "nama_sekolah": "SD NEGERI 3 LANGENSARI",
+        "alamat": "Jl. Pelita II No. 4 Langensari",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6416,
+          -7.3617
+        ]
+      },
+      "properties": {
+        "npsn": "20225317",
+        "nama_sekolah": "SD NEGERI 3 MUKTISARI",
+        "alamat": "Jln. Ir. Purnomo Sidi Nomor : 182 Lingkungan Langen   RT.03 RW.01",
+        "kelurahan": "Muktisari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6237,
+          -7.3603
+        ]
+      },
+      "properties": {
+        "npsn": "20225321",
+        "nama_sekolah": "SD NEGERI 3 REJASARI",
+        "alamat": "Dusun Sindanggalih  Rt 03 / Rw 06",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6507,
+          -7.3594
+        ]
+      },
+      "properties": {
+        "npsn": "20225322",
+        "nama_sekolah": "SD NEGERI 3 WARINGINSARI",
+        "alamat": "Jalan Pengairan PU",
+        "kelurahan": "Waringinsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6145,
+          -7.3775
+        ]
+      },
+      "properties": {
+        "npsn": "20225287",
+        "nama_sekolah": "SD NEGERI 4 BOJONGKANTONG",
+        "alamat": "Lingkungan Langkaplancar Rt. 03 Rw. 01",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.62,
+          -7.3917
+        ]
+      },
+      "properties": {
+        "npsn": "20225251",
+        "nama_sekolah": "SD NEGERI 4 KUJANGSARI",
+        "alamat": "Sindangmulya",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6284,
+          -7.3538
+        ]
+      },
+      "properties": {
+        "npsn": "20225252",
+        "nama_sekolah": "SD NEGERI 4 LANGENSARI",
+        "alamat": "Jalan Garuda Gang Angkasa 03 No. 281 Karangmukti",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6367,
+          -7.3641
+        ]
+      },
+      "properties": {
+        "npsn": "20225254",
+        "nama_sekolah": "SD NEGERI 4 MUKTISARI",
+        "alamat": "Lingkungan Sidamukti",
+        "kelurahan": "Muktisari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.628,
+          -7.372
+        ]
+      },
+      "properties": {
+        "npsn": "20225256",
+        "nama_sekolah": "SD NEGERI 4 REJASARI",
+        "alamat": "Jln. Wagino No 25",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6456,
+          -7.3473
+        ]
+      },
+      "properties": {
+        "npsn": "20225240",
+        "nama_sekolah": "SD NEGERI 5 WARINGINSARI",
+        "alamat": "Dusun Sukanagara",
+        "kelurahan": "Waringinsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6104,
+          -7.3564
+        ]
+      },
+      "properties": {
+        "npsn": "20225244",
+        "nama_sekolah": "SD NEGERI 6 REJASARI",
+        "alamat": "Dusun Bantardawa",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6158,
+          -7.3913
+        ]
+      },
+      "properties": {
+        "npsn": "20225246",
+        "nama_sekolah": "SD NEGERI 7 KUJANGSARI",
+        "alamat": "Jalan KALAPASABRANG",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6047,
+          -7.3848
+        ]
+      },
+      "properties": {
+        "npsn": "20225274",
+        "nama_sekolah": "SMP AL AZHAR CITANGKOLO",
+        "alamat": "Jalan Pesantren No. 02",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6396,
+          -7.3598
+        ]
+      },
+      "properties": {
+        "npsn": "20225264",
+        "nama_sekolah": "SMP ISLAM LANGEN",
+        "alamat": "Komplek Pesantren Mujtahidin",
+        "kelurahan": "Muktisari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6124576,
+          -7.3858309
+        ]
+      },
+      "properties": {
+        "npsn": "70012160",
+        "nama_sekolah": "SMP IT Darul Hikam",
+        "alamat": "Jln. Sasagaran RT. 002 Rw. 005",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.619669,
+          -7.389434
+        ]
+      },
+      "properties": {
+        "npsn": "69985172",
+        "nama_sekolah": "SMP MIFTAHURROHMAN AL BASYARI",
+        "alamat": "Dsn. Sindangmulya RT. 003 RW. 010",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6087,
+          -7.3823
+        ]
+      },
+      "properties": {
+        "npsn": "20225265",
+        "nama_sekolah": "SMP MUHAMMADIYAH LANGKAPLANCAR",
+        "alamat": "Jl. Pengairan No. 07",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6386,
+          -7.3514
+        ]
+      },
+      "properties": {
+        "npsn": "20225271",
+        "nama_sekolah": "SMP NEGERI 4 BANJAR",
+        "alamat": "Jalan Madjalikin  No. 235 Langensari Kota Banjar",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6054,
+          -7.3952
+        ]
+      },
+      "properties": {
+        "npsn": "20229664",
+        "nama_sekolah": "SMP NEGERI 8 BANJAR",
+        "alamat": "Jl. Raya Kujangsari",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6406,
+          -7.3668
+        ]
+      },
+      "properties": {
+        "npsn": "20225267",
+        "nama_sekolah": "SMP PGRI LANGEN",
+        "alamat": "Jl Pahlawan No 27",
+        "kelurahan": "Muktisari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6604,
+          -7.3583
+        ]
+      },
+      "properties": {
+        "npsn": "69786640",
+        "nama_sekolah": "SMPS ISLAM YAYASAN AL FALAH",
+        "alamat": "Kedungwaringin RT/RW. 01/05, Desa Waringinsari, Kec. Langensari - Kota Banjar, K",
+        "kelurahan": "Waringinsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6288,
+          -7.3734
+        ]
+      },
+      "properties": {
+        "npsn": "69809658",
+        "nama_sekolah": "SMPS PLUS AL-HILAL",
+        "alamat": "Jl. Raya Banjar Km. 10 Sampih-Rejasari Kec. Langensari Kota Banjar",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5293,
+          -7.3661
+        ]
+      },
+      "properties": {
+        "npsn": "20277088",
+        "nama_sekolah": "MAN KOTA BANJAR",
+        "alamat": "JL. DIPATIUKUR NO.26 PARUNGLESANG BANJAR",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4976,
+          -7.3588
+        ]
+      },
+      "properties": {
+        "npsn": "20277087",
+        "nama_sekolah": "MAS AL KAUTSAR",
+        "alamat": "JL. PEJUANG NO.100 KARANGPUCUNG WETAN, DESA JAJAWAR",
+        "kelurahan": "Jajawar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5143,
+          -7.3718
+        ]
+      },
+      "properties": {
+        "npsn": "20277089",
+        "nama_sekolah": "MAS DAARUL HUDA",
+        "alamat": "JL. Peta No. 58 Desa Balokang Kecamatan Banjar Kota Banjar",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5076,
+          -7.3625
+        ]
+      },
+      "properties": {
+        "npsn": "20277090",
+        "nama_sekolah": "MAS DARUL ULUM",
+        "alamat": "DSN.KARANGPUCUNG, RT29/RW10, DS.BALOKANG, KEC.BANJAR, KOTA BANJAR-JAWA BARAT",
+        "kelurahan": "Balokang",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5288,
+          -7.3738
+        ]
+      },
+      "properties": {
+        "npsn": "20267661",
+        "nama_sekolah": "SLB ABC PUTRA PASUNDAN 1",
+        "alamat": "Jalan Gotong Royong",
+        "kelurahan": "Mekarsari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.497797,
+          -7.38328
+        ]
+      },
+      "properties": {
+        "npsn": "69786620",
+        "nama_sekolah": "SLB DARUL ISHLAH",
+        "alamat": "Jl. Lapang Dusun Warung Buah RT/RW. 31/16 Kec. Banjar Kota Banjar",
+        "kelurahan": "Neglasari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.526683,
+          -7.371295
+        ]
+      },
+      "properties": {
+        "npsn": "20225279",
+        "nama_sekolah": "SMAN 1 BANJAR",
+        "alamat": "JL. KH. MUSTOFA NO.1",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.525928,
+          -7.371153
+        ]
+      },
+      "properties": {
+        "npsn": "20225278",
+        "nama_sekolah": "SMAN 3 BANJAR",
+        "alamat": "JL. KH Mustofa No. 117",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5232,
+          -7.4021
+        ]
+      },
+      "properties": {
+        "npsn": "69974135",
+        "nama_sekolah": "SMK BANJAR MANDIRI",
+        "alamat": "Jl. Mayjen Lili Kusumah No 33 Kota Banjar",
+        "kelurahan": "Situbatu",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4789,
+          -7.3818
+        ]
+      },
+      "properties": {
+        "npsn": "69935069",
+        "nama_sekolah": "SMK MIFTAHUL IHSAN",
+        "alamat": "LINGKUNGAN CISAUHEUN RT 021 RW 007",
+        "kelurahan": "Situbatu",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.527,
+          -7.3707
+        ]
+      },
+      "properties": {
+        "npsn": "20225282",
+        "nama_sekolah": "SMKN 1 BANJAR",
+        "alamat": "Jl. KH Mustopa Lingk. Parung Lesang RT 05 RW 10",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.522275,
+          -7.372314
+        ]
+      },
+      "properties": {
+        "npsn": "60726572",
+        "nama_sekolah": "SMKS BHAKTI KENCANA BANJAR",
+        "alamat": "JL. DR. Husein Kartasasmita Dusun Gardu Lingkung Pintusinga No.2 Kota Banjar",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.535197,
+          -7.385035
+        ]
+      },
+      "properties": {
+        "npsn": "20225284",
+        "nama_sekolah": "SMKS BINA PUTERA BANJAR",
+        "alamat": "JL. MAYJEND LILI KUSUMAH NO. 14",
+        "kelurahan": "Mekarsari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5383,
+          -7.3635
+        ]
+      },
+      "properties": {
+        "npsn": "20225281",
+        "nama_sekolah": "SMKS HIKMAH BANJAR",
+        "alamat": "Jalan Aliyani  Rt 1 Rw 7 Samping Waterpak Kota Banjar",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5269,
+          -7.3742
+        ]
+      },
+      "properties": {
+        "npsn": "60728389",
+        "nama_sekolah": "SMKS MAARIF NU BANJAR",
+        "alamat": "JALAN DR. HUSEN KARTASASMITA NO.47 BANJAR",
+        "kelurahan": "Banjar",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.536157,
+          -7.381382
+        ]
+      },
+      "properties": {
+        "npsn": "20225283",
+        "nama_sekolah": "SMKS PASUNDAN 1 BANJAR",
+        "alamat": "JL. TENTARA PELAJAR NO. 158",
+        "kelurahan": "Mekarsari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.535512,
+          -7.381142
+        ]
+      },
+      "properties": {
+        "npsn": "20225275",
+        "nama_sekolah": "SMKS PASUNDAN 2 BANJAR",
+        "alamat": "JL. TENTARA PELAJAR NO. 158",
+        "kelurahan": "Mekarsari",
+        "kecamatan": "Banjar",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5720873,
+          -7.3481033
+        ]
+      },
+      "properties": {
+        "npsn": "69954421",
+        "nama_sekolah": "SMK NU 2 BANJAR",
+        "alamat": "Dusun Randegan II Rt. 30 Rw. 13",
+        "kelurahan": "Raharja",
+        "kecamatan": "Purwaharja",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.529503,
+          -7.360291
+        ]
+      },
+      "properties": {
+        "npsn": "20229665",
+        "nama_sekolah": "SMKN 2 BANJAR",
+        "alamat": "JL. RAYA BANJAR-CIAMIS DSN.CIPADUNG",
+        "kelurahan": "Purwaharja",
+        "kecamatan": "Purwaharja",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5287,
+          -7.4085
+        ]
+      },
+      "properties": {
+        "npsn": "69955730",
+        "nama_sekolah": "Fathurrohman",
+        "alamat": "Jl. Tentara Pelajar No.528 Dusun Girimulya",
+        "kelurahan": "Binangun",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5407,
+          -7.3807
+        ]
+      },
+      "properties": {
+        "npsn": "20277091",
+        "nama_sekolah": "MAS PERSIS 85",
+        "alamat": "JL. BATULAWANG NO.47 A",
+        "kelurahan": "Hegarsari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5797,
+          -7.3855
+        ]
+      },
+      "properties": {
+        "npsn": "60729212",
+        "nama_sekolah": "SLB Mekar Mandiri Batulawang",
+        "alamat": "Dusun Tundagan RT 19 RW 06",
+        "kelurahan": "Batulawang",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5534,
+          -7.3739
+        ]
+      },
+      "properties": {
+        "npsn": "60724655",
+        "nama_sekolah": "SLB Negeri Banjar",
+        "alamat": "Jln.Jelat-pataruman",
+        "kelurahan": "Pataruman",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5449,
+          -7.4108
+        ]
+      },
+      "properties": {
+        "npsn": "60728393",
+        "nama_sekolah": "SMKN 4 BANJAR",
+        "alamat": "JALAN RAYA BANJAR-PANGANDARAN",
+        "kelurahan": "Sukamukti",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6023,
+          -7.3827
+        ]
+      },
+      "properties": {
+        "npsn": "20253667",
+        "nama_sekolah": "SMKS AL AZHAR BANJAR",
+        "alamat": "JL. RAYA LANGENSARI - BANJAR",
+        "kelurahan": "Mulyasari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5939,
+          -7.3735
+        ]
+      },
+      "properties": {
+        "npsn": "20225285",
+        "nama_sekolah": "SMKS MUHAMMADIYAH BANJAR",
+        "alamat": "Jalan Raya Pataruman No. 235 Dusun Sukamaju RT 2 RW 4",
+        "kelurahan": "Mulyasari",
+        "kecamatan": "Pataruman",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70058911",
+        "nama_sekolah": "MA AL HUFAZ MAHARDIKA",
+        "alamat": "Dusun Sirnagalih Rt.02 Rw.04",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70026162",
+        "nama_sekolah": "MA ASSANUSIYAH",
+        "alamat": "Komp. Makam Syekh Sanusi Dsn. Sukahurip 05/03, Kode Pos 46324",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70059754",
+        "nama_sekolah": "MA DARUL HIKAM",
+        "alamat": "Lingk. Margasari Rt.002 Rw,005",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70059141",
+        "nama_sekolah": "MA MA'ARIF NU AL-HILAL",
+        "alamat": "Jl. Raya Banjar Langensari Km.10 Dusun Sampih Rt.04 Rw.08",
+        "kelurahan": "Rejasari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.604483,
+          -7.384923
+        ]
+      },
+      "properties": {
+        "npsn": "20277086",
+        "nama_sekolah": "MAS AL AZHAR",
+        "alamat": "JL. PESANTREN NO. 02 CITANGKOLO",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6123,
+          -7.381
+        ]
+      },
+      "properties": {
+        "npsn": "20277092",
+        "nama_sekolah": "MAS YABA AL-MA ARIF",
+        "alamat": "JL. PENGAIRAN PONDOK HUNI NO.152",
+        "kelurahan": "Bojongkantong",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6368,
+          -7.3683
+        ]
+      },
+      "properties": {
+        "npsn": "60724654",
+        "nama_sekolah": "SLB Negeri Langensari",
+        "alamat": "Jalan Banjar - Langen",
+        "kelurahan": "Muktisari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6361,
+          -7.3507
+        ]
+      },
+      "properties": {
+        "npsn": "20225280",
+        "nama_sekolah": "SMAN 2 BANJAR",
+        "alamat": "Jl. KH. Muhamad Sanusi",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6032,
+          -7.3847
+        ]
+      },
+      "properties": {
+        "npsn": "20225276",
+        "nama_sekolah": "SMAS AL AZHAR",
+        "alamat": "JL. PESANTREN NO.2",
+        "kelurahan": "Kujangsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.635,
+          -7.3513
+        ]
+      },
+      "properties": {
+        "npsn": "20254663",
+        "nama_sekolah": "SMKN 3 BANJAR",
+        "alamat": "JL. JULAENI",
+        "kelurahan": "Langensari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.660433,
+          -7.358413
+        ]
+      },
+      "properties": {
+        "npsn": "20254187",
+        "nama_sekolah": "SMKS TEKNOLOGI YAYASAN AL FALAH",
+        "alamat": "PENGAIRAN PU, NO. 7, KEDUNGWARINGIN, KEC. LANGENSARI",
+        "kelurahan": "Waringinsari",
+        "kecamatan": "Langensari",
+        "kabupaten": "Kota Banjar",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    }
+  ]
+}

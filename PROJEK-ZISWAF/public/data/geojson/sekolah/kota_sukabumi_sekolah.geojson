@@ -1,1 +1,2385 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9476, -6.9581]}, "properties": {"npsn": "60709678", "nama_sekolah": "MIS CARINGIN", "alamat": "Jl. Garuda No. 82 Caringin RT. 002/RW. 010", "kelurahan": "Baros", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.933666, -6.971139]}, "properties": {"npsn": "69892430", "nama_sekolah": "SD IT ADZKIA 3", "alamat": "Jl. Tata Nugraha, Kp. Ciwaringin", "kelurahan": "Jayamekar", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9399, -6.9639]}, "properties": {"npsn": "20221478", "nama_sekolah": "SDN BAROS KENCANA CBM", "alamat": "Jalan Garuda No. 10", "kelurahan": "Baros", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.926, -6.9585]}, "properties": {"npsn": "20221454", "nama_sekolah": "SDN CICADAS GIRANG", "alamat": "Jl. Tata Nugraha", "kelurahan": "Jayamekar", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70061136", "nama_sekolah": "SMP AISYIYAH KOTA SUKABUMI", "alamat": "Jl. Tata Nugraha", "kelurahan": "Jayamekar", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9309736, -6.9432255]}, "properties": {"npsn": "20279537", "nama_sekolah": "MTSS 2 KOTA SUKABUMI", "alamat": "Jalan Tembusan Lamping RT 03/04", "kelurahan": "Gedong Panjang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9246, -6.9413]}, "properties": {"npsn": "20221656", "nama_sekolah": "SD NEGERI CIPANAS", "alamat": "Jl. Pramuka No. 1", "kelurahan": "Cikondang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.936558, -6.936194]}, "properties": {"npsn": "20221610", "nama_sekolah": "SMP NEGERI 6 KOTA SUKABUMI", "alamat": "Jl Pelda Suryanta No 96", "kelurahan": "Nanggeleng", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9182, -6.9262]}, "properties": {"npsn": "20279550", "nama_sekolah": "MTSS JAMIYYATUL MUTA`ALLIMIN", "alamat": "JL. NAGRAK TAMAN BAHAGIA NO. 2", "kelurahan": "Benteng", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9119, -6.9276]}, "properties": {"npsn": "20221447", "nama_sekolah": "SD NEGERI CARINGIN NGUMBANG", "alamat": "Jl. Caringin Ngumbang No.30", "kelurahan": "Benteng", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9089, -6.9204]}, "properties": {"npsn": "20221688", "nama_sekolah": "SD NEGERI SUKAKARYA II", "alamat": "Jl Palasari No 42", "kelurahan": "Sukakarya", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9135, -6.9194]}, "properties": {"npsn": "20221475", "nama_sekolah": "SDN BABAKAN SIRNA", "alamat": "Jalan Babakan Sirna No. 36", "kelurahan": "Benteng", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9053, -6.9217]}, "properties": {"npsn": "20229790", "nama_sekolah": "SDN CEMERLANG", "alamat": "Jl. Sukakarya", "kelurahan": "Sukakarya", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9221, -6.9331]}, "properties": {"npsn": "20221635", "nama_sekolah": "SDN DWIKORA", "alamat": "Jl. Dwikora Blk No. 36", "kelurahan": "Warudoyong", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9138, -6.9214]}, "properties": {"npsn": "20221600", "nama_sekolah": "SMP NEGERI 10 KOTA SUKABUMI", "alamat": "Jl. Saniin No. 28", "kelurahan": "Benteng", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9214, -6.9226]}, "properties": {"npsn": "20221601", "nama_sekolah": "SMP NEGERI 11 KOTA SUKABUMI", "alamat": "Jl. Lettu Bakri No.14", "kelurahan": "Benteng", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9, -6.9084]}, "properties": {"npsn": "60709692", "nama_sekolah": "MIS RAUDLATUL WALAD", "alamat": "PASIRPOGOR RT04/RW08", "kelurahan": "Karang Tengah", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9068, -6.9148]}, "properties": {"npsn": "60709694", "nama_sekolah": "MIS TARBIYATUL MUSLIMIN", "alamat": "JL. KH. AHMAD SANUSI NO.60B CISEUREUH", "kelurahan": "Karang Tengah", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9193, -6.9129]}, "properties": {"npsn": "20221673", "nama_sekolah": "SD NEGERI LEMBURSITU II", "alamat": "Jl. Bhayangkara Gg. Gelatik No. 19", "kelurahan": "Gunung Puyuh", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9239, -6.9165]}, "properties": {"npsn": "20221680", "nama_sekolah": "SD NEGERI SRIWIDARI 1", "alamat": "Jl. Bhayangkara No. 190/208", "kelurahan": "Sriwidari", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9251, -6.9024]}, "properties": {"npsn": "20221608", "nama_sekolah": "SMP NEGERI 4 KOTA SUKABUMI", "alamat": "Jl. Kopeng No.91", "kelurahan": "Karamat", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.927, -6.9188]}, "properties": {"npsn": "20221441", "nama_sekolah": "SD ADVENT", "alamat": "Jln Veteran II Sukabumi", "kelurahan": "Selabatu", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9451, -6.9183]}, "properties": {"npsn": "20221683", "nama_sekolah": "SD NEGERI SUBANGJAYA 2", "alamat": "Jl Ciaul Pasir No.46", "kelurahan": "Subangjaya", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9467, -6.9408]}, "properties": {"npsn": "20221707", "nama_sekolah": "SDN PERANA", "alamat": "Jl. Siliwangi No.33", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.927, -6.9188]}, "properties": {"npsn": "20221619", "nama_sekolah": "SMP ADVENT", "alamat": "Jalan Veteran 2 Nomor 5", "kelurahan": "Selabatu", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9215, -6.915]}, "properties": {"npsn": "20221624", "nama_sekolah": "SMP KEHIDUPAN BARU", "alamat": "Jalan RE. Martadinata No. 61", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9352, -6.9181]}, "properties": {"npsn": "20221628", "nama_sekolah": "SMP MUHAMMADIYAH I", "alamat": "Jl. R. Syamsudin Sh No 59", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9317, -6.9189]}, "properties": {"npsn": "20221606", "nama_sekolah": "SMP N 2 KOTA SUKABUMI", "alamat": "Jl. Ir. H. Juanda No. 14", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9324, -6.9159]}, "properties": {"npsn": "20221632", "nama_sekolah": "SMP NEGERI 9 KOTA SUKABUMI", "alamat": "Jl.Suryakencana. No 60", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9357, -6.9199]}, "properties": {"npsn": "20221614", "nama_sekolah": "SMP PGRI CIAUL", "alamat": "Jl. Amubawa Sasana No. 10", "kelurahan": "Subangjaya", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9034, -6.9166]}, "properties": {"npsn": "20221597", "nama_sekolah": "SMP TAMAN SISWA", "alamat": "Jl R Syamsudin Sh No 62", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.8916, -6.9669]}, "properties": {"npsn": "60709698", "nama_sekolah": "MIS BOJONGLOA", "alamat": "Jl. Pelabuhan II Km. 7 No. 28 Bojongloa RW. 11", "kelurahan": "Lembursitu", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.8916, -6.9669]}, "properties": {"npsn": "60709696", "nama_sekolah": "MIS YLPI TEGALLEGA", "alamat": "JL. PALABUAN 2 KM.7", "kelurahan": "Lembursitu", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9179, -6.9711]}, "properties": {"npsn": "20279545", "nama_sekolah": "MTSS AL-FATAH", "alamat": "JL. MERDEKA NO. 28 CIKUNDUL", "kelurahan": "Cikundul", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9181, -6.9531]}, "properties": {"npsn": "20279544", "nama_sekolah": "MTSS AMAL ISLAMI", "alamat": "LEMBUR PASIR NO. 100 RT 01 RW 05", "kelurahan": "Sindangsari", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9084, -6.9592]}, "properties": {"npsn": "20279543", "nama_sekolah": "MTSS BAITURRAHMAN", "alamat": "JALAN MERDEKA 67 TEGALLAYA", "kelurahan": "Cipanengah", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9183, -6.9716]}, "properties": {"npsn": "70005212", "nama_sekolah": "SD ISLAM AL-FATAH", "alamat": "Jalan Merdeka Kampung Baru", "kelurahan": "Cikundul", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9094, -6.9766]}, "properties": {"npsn": "20221634", "nama_sekolah": "SDN CIKUNDUL", "alamat": "Jalan Merdeka 2 No. 220", "kelurahan": "Cikundul", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70056595", "nama_sekolah": "SMP IT BAITI JANNATI", "alamat": "KP. RAWAGEDE", "kelurahan": "Cikundul", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9452, -6.9508]}, "properties": {"npsn": "20279532", "nama_sekolah": "MTSS AL MANSHURIYAH", "alamat": "JL.LIMUSNUNGGAL NO.275", "kelurahan": "Limusnunggal", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9403, -6.9434]}, "properties": {"npsn": "20279531", "nama_sekolah": "MTSS DARUL MUTA ALIMIN", "alamat": "JL.LIMUSNUNGGAL NO.108", "kelurahan": "Limusnunggal", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9458, -6.9264]}, "properties": {"npsn": "20258135", "nama_sekolah": "SDIT ADZKIA 2", "alamat": "Jalan Ciandam", "kelurahan": "Cibeureum Hilir", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9466, -6.9269]}, "properties": {"npsn": "20221448", "nama_sekolah": "SDN CIANDAM", "alamat": "Jl. Ciandam No 01 Blk", "kelurahan": "Cibeureum Hilir", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9426, -6.9475]}, "properties": {"npsn": "20221694", "nama_sekolah": "SDN LIMUSNUNGGAL I", "alamat": "Jl. Limusnunggal No. 215", "kelurahan": "Limusnunggal", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70056992", "nama_sekolah": "SEKOLAH DASAR ISLAM TERPADU RUSMANI KOTA SUKABUMI", "alamat": "JL. LINGKAR SELATAN GUNUNG KARANG", "kelurahan": "Limusnunggal", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9226, -6.9485]}, "properties": {"npsn": "20221583", "nama_sekolah": "SLB A BUDI NURANI", "alamat": "Jalan Lio Balandongan Komplek Provelat No. 169", "kelurahan": "Sudajaya Hilir", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9226, -6.9485]}, "properties": {"npsn": "20221584", "nama_sekolah": "SLB B BUDI NURANI", "alamat": "Jalan Lio Balandongan No.12", "kelurahan": "Sudajaya Hilir", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9233, -6.9474]}, "properties": {"npsn": "20221585", "nama_sekolah": "SLB C Budi Nurani", "alamat": "Jl. Lio Balandongan Propelat", "kelurahan": "Sudajaya Hilir", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70002721", "nama_sekolah": "SLB NEGERI 1 Sukabumi", "alamat": "Jl. Nangela", "kelurahan": "Baros", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70044093", "nama_sekolah": "SMA ISLAM TERPADU AL-HUDA", "alamat": "Jl. Garuda No. 07", "kelurahan": "Baros", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9356, -6.9456]}, "properties": {"npsn": "20221593", "nama_sekolah": "SMAS PELITA MADANIA", "alamat": "Jl. R.H. Didi Sukardi, Jagaraksa Permai", "kelurahan": "Jayaraksa", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9117, -6.949]}, "properties": {"npsn": "69757154", "nama_sekolah": "SMKS GEMA ISTIQOMAH", "alamat": "JL. WIDYAKRAMA BALANDONGAN NO. 1", "kelurahan": "Sudajaya Hilir", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9443, -6.9661]}, "properties": {"npsn": "69754839", "nama_sekolah": "SMKS IT MADANI", "alamat": "JL. RAYA BAROS 01/07", "kelurahan": "Baros", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9227, -6.9462]}, "properties": {"npsn": "20280579", "nama_sekolah": "SMKS PLUS AN-NABA", "alamat": "JL. WIDYAKRAMA NO. 112", "kelurahan": "Sudajaya Hilir", "kecamatan": "Baros", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.93, -6.9288]}, "properties": {"npsn": "69955721", "nama_sekolah": "MA Sunanul-Aulia", "alamat": "Jl. Pemuda Ii, No.18 Rt.001 Rw.006", "kelurahan": "Cikondang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9316, -6.9426]}, "properties": {"npsn": "20277177", "nama_sekolah": "MAN 1 KOTA SUKABUMI", "alamat": "Jl. PRAMUKA NO.4 RT. 03 RW. 04", "kelurahan": "Gedong Panjang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9305, -6.9384]}, "properties": {"npsn": "20221559", "nama_sekolah": "SMAN 1 SUKABUMI", "alamat": "JL. RH. Didi Sukardi No.124 Kota Sukabumi", "kelurahan": "Citamiang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9307, -6.9372]}, "properties": {"npsn": "20221577", "nama_sekolah": "SMAS PGRI 1 SUKABUMI", "alamat": "JL. R.H. DIDI SUKARDI NO.12 SUKABUMI", "kelurahan": "Citamiang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9225, -6.9455]}, "properties": {"npsn": "69894099", "nama_sekolah": "SMK MUTIARA CENDEKIA", "alamat": "Jl. Lio Balandongan Sirnagalih No. 74", "kelurahan": "Cikondang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9261, -6.9346]}, "properties": {"npsn": "20221569", "nama_sekolah": "SMKN 2 SUKABUMI", "alamat": "JL. PELABUHAN II CIPOHO SUKABUMI", "kelurahan": "Cikondang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9356, -6.927]}, "properties": {"npsn": "20221572", "nama_sekolah": "SMKS PELITA YNH SUKABUMI", "alamat": "JL. OTISTA GG. PELITA SUKABUMI", "kelurahan": "Nanggeleng", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9268, -6.9357]}, "properties": {"npsn": "20221574", "nama_sekolah": "SMKS PGRI 1 SUKABUMI", "alamat": "Jalan Pelabuhan II Cipoho Indah", "kelurahan": "Cikondang", "kecamatan": "Citamiang", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9088, -6.921]}, "properties": {"npsn": "20277172", "nama_sekolah": "MAN 2 KOTA SUKABUMI", "alamat": "JL.PALASARI NO.14", "kelurahan": "Sukakarya", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9194, -6.942]}, "properties": {"npsn": "20277173", "nama_sekolah": "MAS AL ISTIQOMAH", "alamat": "JL. NYOMPLONG RT.5/9 KARTAPURA", "kelurahan": "Dayeuhluhur", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9186, -6.9261]}, "properties": {"npsn": "20277176", "nama_sekolah": "MAS JAMIYYATUL MUTA`ALLIMIN", "alamat": "JL. NAGRAK TAMAN BAHAGIA", "kelurahan": "Benteng", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.911648, -6.930981]}, "properties": {"npsn": "20277178", "nama_sekolah": "MAS PERSATUAN ISLAM", "alamat": "JL. TEGALWANGI II NO. 133", "kelurahan": "Sukakarya", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9002, -6.9235]}, "properties": {"npsn": "69976365", "nama_sekolah": "NURUL ISLAM", "alamat": "Jln. Cemerlang No 50 Kubang, Kel. Sukakarya, Kec. Warudoyong Kota Sukabumi Provi", "kelurahan": "Sukakarya", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9075432, -6.9174463]}, "properties": {"npsn": "20221573", "nama_sekolah": "SMKS ISLAM PENGUJI SUKABUMI", "alamat": "JL. KH. AHMAD SANUSI 195 SUKABUMI", "kelurahan": "Sukakarya", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9231, -6.924]}, "properties": {"npsn": "20229796", "nama_sekolah": "SMKS PASUNDAN 1 SUKABUMI", "alamat": "JL. PASUNDAN NO.117 SUKABUMI", "kelurahan": "Nyomplong", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9232, -6.9237]}, "properties": {"npsn": "20221571", "nama_sekolah": "SMKS PASUNDAN 2 SUKABUMI", "alamat": "JL. PASUNDAN NO.117 SUKABUMI", "kelurahan": "Nyomplong", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9034, -6.9166]}, "properties": {"npsn": "20221596", "nama_sekolah": "SMKS TEKNOLOGI PLUS PADJADJARAN SUKABUMI", "alamat": "JL. CEMERLANG  NO.18", "kelurahan": "Sukakarya", "kecamatan": "Warudoyong", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9145, -6.9011]}, "properties": {"npsn": "69983491", "nama_sekolah": "MAS PLUS ULUL ALBAB", "alamat": "JL. KARAMAT KARANGTENGAH NO. 125", "kelurahan": "Karang Tengah", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9161, -6.9169]}, "properties": {"npsn": "20277179", "nama_sekolah": "MAS SYAMSUL ULUM", "alamat": "JL. BHAYANGKARA NO. 33", "kelurahan": "Gunung Puyuh", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9134, -6.9068]}, "properties": {"npsn": "69983492", "nama_sekolah": "MAS TERPADU AL IRSYAD", "alamat": "JL. MERBABU PERUM GADING KENCANA ASRI BLOK G", "kelurahan": "Karang Tengah", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9111, -6.9128]}, "properties": {"npsn": "69983490", "nama_sekolah": "MAS YASMIN", "alamat": "JL. K.H. AHMAD SANUSI ( SITUAWI PASIR )", "kelurahan": "Karang Tengah", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9135, -6.9063]}, "properties": {"npsn": "69972549", "nama_sekolah": "SMA ISLAM TERPADU AL FATH", "alamat": "Jl. Merbabu Perum Gading Kencana Asri", "kelurahan": "Karang Tengah", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9192173, -6.9083808]}, "properties": {"npsn": "69942149", "nama_sekolah": "SMA ISLAM TERPADU INSANI", "alamat": "Jl. Karamat No. 55", "kelurahan": "Karamat", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9167, -6.9059]}, "properties": {"npsn": "20221560", "nama_sekolah": "SMAN 2 SUKABUMI", "alamat": "JL. KARAMAT NO. 93 SUKABUMI", "kelurahan": "Karamat", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9173, -6.9072]}, "properties": {"npsn": "20221588", "nama_sekolah": "SMAS NURUL KAROMAH", "alamat": "JL. KARAMAT NO. 79 SUKABUMI", "kelurahan": "Karamat", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9177, -6.9038]}, "properties": {"npsn": "20221587", "nama_sekolah": "SMAS PESANTREN TERPADU HAYATAN THAYYIBAH", "alamat": "JL. KARAMAT NO. 123 SUKABUMI", "kelurahan": "Gunung Puyuh", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9161, -6.9266]}, "properties": {"npsn": "20254980", "nama_sekolah": "SMKS KOMPUTER ABDI BANGSA SUKABUMI", "alamat": "Jalan Benteng Kidul Rt 01 Rw 01 Kec. Warudoyong", "kelurahan": "Karamat", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9229, -6.9194]}, "properties": {"npsn": "69757153", "nama_sekolah": "SMKS PRIORITY", "alamat": "JL VETERAN I NO 25 KOTA SUKABUMI, TLP. (0266) 6249831", "kelurahan": "Sriwidari", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9177, -6.9041]}, "properties": {"npsn": "20221616", "nama_sekolah": "SMKS SILIWANGI SUKABUMI", "alamat": "JL. TITIRAN BHAYANGKARA NO. 39 SUKABUMI", "kelurahan": "Sriwidari", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9142, -6.901]}, "properties": {"npsn": "20253909", "nama_sekolah": "SMKS ULUL ALBAB SUKABUMI", "alamat": "JALAN KARAMAT KARANG TENGAH NO. 125", "kelurahan": "Karang Tengah", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.917, -6.9169]}, "properties": {"npsn": "20221618", "nama_sekolah": "SMKS YASPI SYAMSUL ULUM SUKABUMI", "alamat": "JL. BHAYANGKARA NO. 33", "kelurahan": "Gunung Puyuh", "kecamatan": "Gunung Puyuh", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9217, -6.9264]}, "properties": {"npsn": "20277180", "nama_sekolah": "MAS YAYASAN AHMAD DJUWAENI", "alamat": "JL. VETERAN I NO.36", "kelurahan": "Gunung Parang", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.952755, -6.912079]}, "properties": {"npsn": "69983844", "nama_sekolah": "SMA ISLAM AL AZHAR 21 SUKABUMI", "alamat": "JL. Subangjaya RT03/07 Cikole Sukabumi", "kelurahan": "Subangjaya", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9447, -6.9207]}, "properties": {"npsn": "20221561", "nama_sekolah": "SMAN 3 SUKABUMI", "alamat": "Jalan Ciaul Baru No.21", "kelurahan": "Subangjaya", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9319, -6.9192]}, "properties": {"npsn": "20221562", "nama_sekolah": "SMAN 4 SUKABUMI", "alamat": "JL. IR. H. JUANDA NO. 8 SUKABUMI", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9233, -6.9474]}, "properties": {"npsn": "20221586", "nama_sekolah": "SMAS ADVENT SUKABUMI", "alamat": "JL. VETERAN II NO. 5 SUKABUMI", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.932, -6.9151]}, "properties": {"npsn": "20221589", "nama_sekolah": "SMAS KRISTEN BPK PENABUR", "alamat": "JL. BHAYANGKARA NO. 240 SUKABUMI", "kelurahan": "Selabatu", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.932, -6.921]}, "properties": {"npsn": "20221590", "nama_sekolah": "SMAS MARDI YUANA", "alamat": "JL. R.E MARTADINATA NO. 54 SUKABUMI", "kelurahan": "Kebonjati", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9225, -6.9153]}, "properties": {"npsn": "20221591", "nama_sekolah": "SMAS MUHAMMADIYAH", "alamat": "JL. R. SYAMSUDIN SH. NO. 59 SUKABUMI", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9268, -6.9356]}, "properties": {"npsn": "20221575", "nama_sekolah": "SMAS TAMAN SISWA", "alamat": "JL. R. SYAMSUDIN SH NO. 62", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9231, -6.9195]}, "properties": {"npsn": "20221558", "nama_sekolah": "SMAS YAYASAN AHMAD DJUWAENI", "alamat": "JL. VETERAN I NO. 36 SUKABUMI", "kelurahan": "Gunung Parang", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9454426, -6.9151454]}, "properties": {"npsn": "69921197", "nama_sekolah": "SMK IT AL-FATH", "alamat": "Jl. Otto Iskandardinata No. 23B", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9306, -6.9057]}, "properties": {"npsn": "20221568", "nama_sekolah": "SMKN 1 SUKABUMI", "alamat": "JL. KABANDUNGAN NO. 90", "kelurahan": "Selabatu", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9304, -6.905]}, "properties": {"npsn": "20221570", "nama_sekolah": "SMKN 3 SUKABUMI", "alamat": "JL. KABANDUNGAN NO.86 SUKABUMI", "kelurahan": "Selabatu", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9352, -6.918]}, "properties": {"npsn": "20221566", "nama_sekolah": "SMKS MUHAMMADIYAH 1 SUKABUMI", "alamat": "JL. SYAMSUDIN SH NO.59 SUKABUMI", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9239, -6.919]}, "properties": {"npsn": "20270889", "nama_sekolah": "SMKS PASIM PLUS SUKABUMI", "alamat": "JL. PRANA NO 8 RT 01/05", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9529, -6.9054]}, "properties": {"npsn": "69757214", "nama_sekolah": "SMKS PERSADA", "alamat": "JL KH MUSTOPA NO 24 SUBANG JAYA WETAN", "kelurahan": "Subangjaya", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9298, -6.9331]}, "properties": {"npsn": "20221617", "nama_sekolah": "SMKS TAMANSISWA SUKABUMI", "alamat": "R.SYAMSUDIN,SH NO. 58", "kelurahan": "Cikole", "kecamatan": "Cikole", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.8949, -6.9682]}, "properties": {"npsn": "70027390", "nama_sekolah": "MA ANSOR AL MUSLIM", "alamat": "Jl. Kibitay Kp. Bangsanaya RT 03 RW 07", "kelurahan": "Situmekar", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9034, -6.9528]}, "properties": {"npsn": "20277174", "nama_sekolah": "MAS AMAL ISLAMI", "alamat": "JL. SINDANGSARI LEMBURPASIR NO. 100 RT 01 RW 05 KEL. SINDANGSARI KEC. LEMBURSIT", "kelurahan": "Lembursitu", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9021, -6.9511]}, "properties": {"npsn": "20277175", "nama_sekolah": "MAS BAITURRAHMAN", "alamat": "JL. MERDEKA 67 TEGALLAYA", "kelurahan": "Lembursitu", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "69976364", "nama_sekolah": "MAS RIYADLUL JANNAH", "alamat": "JL MERDEKA II RT 01 RW 07", "kelurahan": "Cikundul", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.8785, -6.9639]}, "properties": {"npsn": "20277181", "nama_sekolah": "MAS YLPI", "alamat": "JL. PELABUHAN II KM.8", "kelurahan": "Lembursitu", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9185, -6.9531]}, "properties": {"npsn": "69899673", "nama_sekolah": "SMK IT AMAL ISLAMI", "alamat": "Jl. Sindangsari Lemburpasir No. 100 RT. 001/005", "kelurahan": "Sindangsari", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9077, -6.961]}, "properties": {"npsn": "20253907", "nama_sekolah": "SMKN 4 SUKABUMI", "alamat": "JALAN MERDEKA KM 4", "kelurahan": "Cipanengah", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9022, -6.9586]}, "properties": {"npsn": "69757152", "nama_sekolah": "SMKS BINA SATYA MANDIRI", "alamat": "JL JERUK NYELAP NO 07", "kelurahan": "Situmekar", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.8776, -6.9635]}, "properties": {"npsn": "69757213", "nama_sekolah": "SMKS KESEHATAN TUNAS MADANI", "alamat": "JL. PELABUHAN II KM 8 TEGALLEGA", "kelurahan": "Lembursitu", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9026, -6.968]}, "properties": {"npsn": "20221595", "nama_sekolah": "SMKS PLUS BINA TEKNIK YLPI SUKABUMI", "alamat": "JL. PELABUHAN II KM 7 SUKABUMI", "kelurahan": "Lembursitu", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9085, -6.9611]}, "properties": {"npsn": "20265663", "nama_sekolah": "SMKS TERPADU IBADURRAHMAN", "alamat": "JALAN PELABUHAN II KM. 7/JL KH ACUN MANSHUR", "kelurahan": "Lembursitu", "kecamatan": "Lembur Situ", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"npsn": "70051033", "nama_sekolah": "MA AL-Intizhoom", "alamat": "Jl limusnunggal rt 02 rw 01 kel. cibeurueum hilir kec. cibeureum kota sukabumi", "kelurahan": "Kec. Cibeureum", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9572, -6.9199]}, "properties": {"npsn": "69955722", "nama_sekolah": "MA Ma`arif Assobariyyah", "alamat": "Jl. Ra Kosasih No.46 -47", "kelurahan": "Babakan", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.952933, -6.954445]}, "properties": {"npsn": "69881421", "nama_sekolah": "MAS  AL-MANSHURIYAH", "alamat": "JL.LIMUSNUNGGAL", "kelurahan": "Limusnunggal", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9397, -6.9459]}, "properties": {"npsn": "69983489", "nama_sekolah": "MAS DARUL MUTA`ALIMIN", "alamat": "Jl Limusnunggal No. 108", "kelurahan": "Limusnunggal", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9448, -6.9493]}, "properties": {"npsn": "69916542", "nama_sekolah": "SMA IT AL IZZAH", "alamat": "Kp. Cibungur", "kelurahan": "Limusnunggal", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "SWASTA", "bentuk": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [106.9514, -6.9456]}, "properties": {"npsn": "20221563", "nama_sekolah": "SMAN 5 SUKABUMI", "alamat": "JL. SARASA BLOK LOASARI NO.1 SUKABUMI", "kelurahan": "Limusnunggal", "kecamatan": "Cibeureum", "kabupaten": "Kota Sukabumi", "status": "NEGERI", "bentuk": ""}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9476,
+          -6.9581
+        ]
+      },
+      "properties": {
+        "npsn": "60709678",
+        "nama_sekolah": "MIS CARINGIN",
+        "alamat": "Jl. Garuda No. 82 Caringin RT. 002/RW. 010",
+        "kelurahan": "Baros",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.933666,
+          -6.971139
+        ]
+      },
+      "properties": {
+        "npsn": "69892430",
+        "nama_sekolah": "SD IT ADZKIA 3",
+        "alamat": "Jl. Tata Nugraha, Kp. Ciwaringin",
+        "kelurahan": "Jayamekar",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9399,
+          -6.9639
+        ]
+      },
+      "properties": {
+        "npsn": "20221478",
+        "nama_sekolah": "SDN BAROS KENCANA CBM",
+        "alamat": "Jalan Garuda No. 10",
+        "kelurahan": "Baros",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.926,
+          -6.9585
+        ]
+      },
+      "properties": {
+        "npsn": "20221454",
+        "nama_sekolah": "SDN CICADAS GIRANG",
+        "alamat": "Jl. Tata Nugraha",
+        "kelurahan": "Jayamekar",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70061136",
+        "nama_sekolah": "SMP AISYIYAH KOTA SUKABUMI",
+        "alamat": "Jl. Tata Nugraha",
+        "kelurahan": "Jayamekar",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9309736,
+          -6.9432255
+        ]
+      },
+      "properties": {
+        "npsn": "20279537",
+        "nama_sekolah": "MTSS 2 KOTA SUKABUMI",
+        "alamat": "Jalan Tembusan Lamping RT 03/04",
+        "kelurahan": "Gedong Panjang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9246,
+          -6.9413
+        ]
+      },
+      "properties": {
+        "npsn": "20221656",
+        "nama_sekolah": "SD NEGERI CIPANAS",
+        "alamat": "Jl. Pramuka No. 1",
+        "kelurahan": "Cikondang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.936558,
+          -6.936194
+        ]
+      },
+      "properties": {
+        "npsn": "20221610",
+        "nama_sekolah": "SMP NEGERI 6 KOTA SUKABUMI",
+        "alamat": "Jl Pelda Suryanta No 96",
+        "kelurahan": "Nanggeleng",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9182,
+          -6.9262
+        ]
+      },
+      "properties": {
+        "npsn": "20279550",
+        "nama_sekolah": "MTSS JAMIYYATUL MUTA`ALLIMIN",
+        "alamat": "JL. NAGRAK TAMAN BAHAGIA NO. 2",
+        "kelurahan": "Benteng",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9119,
+          -6.9276
+        ]
+      },
+      "properties": {
+        "npsn": "20221447",
+        "nama_sekolah": "SD NEGERI CARINGIN NGUMBANG",
+        "alamat": "Jl. Caringin Ngumbang No.30",
+        "kelurahan": "Benteng",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9089,
+          -6.9204
+        ]
+      },
+      "properties": {
+        "npsn": "20221688",
+        "nama_sekolah": "SD NEGERI SUKAKARYA II",
+        "alamat": "Jl Palasari No 42",
+        "kelurahan": "Sukakarya",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9135,
+          -6.9194
+        ]
+      },
+      "properties": {
+        "npsn": "20221475",
+        "nama_sekolah": "SDN BABAKAN SIRNA",
+        "alamat": "Jalan Babakan Sirna No. 36",
+        "kelurahan": "Benteng",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9053,
+          -6.9217
+        ]
+      },
+      "properties": {
+        "npsn": "20229790",
+        "nama_sekolah": "SDN CEMERLANG",
+        "alamat": "Jl. Sukakarya",
+        "kelurahan": "Sukakarya",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9221,
+          -6.9331
+        ]
+      },
+      "properties": {
+        "npsn": "20221635",
+        "nama_sekolah": "SDN DWIKORA",
+        "alamat": "Jl. Dwikora Blk No. 36",
+        "kelurahan": "Warudoyong",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9138,
+          -6.9214
+        ]
+      },
+      "properties": {
+        "npsn": "20221600",
+        "nama_sekolah": "SMP NEGERI 10 KOTA SUKABUMI",
+        "alamat": "Jl. Saniin No. 28",
+        "kelurahan": "Benteng",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9214,
+          -6.9226
+        ]
+      },
+      "properties": {
+        "npsn": "20221601",
+        "nama_sekolah": "SMP NEGERI 11 KOTA SUKABUMI",
+        "alamat": "Jl. Lettu Bakri No.14",
+        "kelurahan": "Benteng",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9,
+          -6.9084
+        ]
+      },
+      "properties": {
+        "npsn": "60709692",
+        "nama_sekolah": "MIS RAUDLATUL WALAD",
+        "alamat": "PASIRPOGOR RT04/RW08",
+        "kelurahan": "Karang Tengah",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9068,
+          -6.9148
+        ]
+      },
+      "properties": {
+        "npsn": "60709694",
+        "nama_sekolah": "MIS TARBIYATUL MUSLIMIN",
+        "alamat": "JL. KH. AHMAD SANUSI NO.60B CISEUREUH",
+        "kelurahan": "Karang Tengah",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9193,
+          -6.9129
+        ]
+      },
+      "properties": {
+        "npsn": "20221673",
+        "nama_sekolah": "SD NEGERI LEMBURSITU II",
+        "alamat": "Jl. Bhayangkara Gg. Gelatik No. 19",
+        "kelurahan": "Gunung Puyuh",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9239,
+          -6.9165
+        ]
+      },
+      "properties": {
+        "npsn": "20221680",
+        "nama_sekolah": "SD NEGERI SRIWIDARI 1",
+        "alamat": "Jl. Bhayangkara No. 190/208",
+        "kelurahan": "Sriwidari",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9251,
+          -6.9024
+        ]
+      },
+      "properties": {
+        "npsn": "20221608",
+        "nama_sekolah": "SMP NEGERI 4 KOTA SUKABUMI",
+        "alamat": "Jl. Kopeng No.91",
+        "kelurahan": "Karamat",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.927,
+          -6.9188
+        ]
+      },
+      "properties": {
+        "npsn": "20221441",
+        "nama_sekolah": "SD ADVENT",
+        "alamat": "Jln Veteran II Sukabumi",
+        "kelurahan": "Selabatu",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9451,
+          -6.9183
+        ]
+      },
+      "properties": {
+        "npsn": "20221683",
+        "nama_sekolah": "SD NEGERI SUBANGJAYA 2",
+        "alamat": "Jl Ciaul Pasir No.46",
+        "kelurahan": "Subangjaya",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9467,
+          -6.9408
+        ]
+      },
+      "properties": {
+        "npsn": "20221707",
+        "nama_sekolah": "SDN PERANA",
+        "alamat": "Jl. Siliwangi No.33",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.927,
+          -6.9188
+        ]
+      },
+      "properties": {
+        "npsn": "20221619",
+        "nama_sekolah": "SMP ADVENT",
+        "alamat": "Jalan Veteran 2 Nomor 5",
+        "kelurahan": "Selabatu",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9215,
+          -6.915
+        ]
+      },
+      "properties": {
+        "npsn": "20221624",
+        "nama_sekolah": "SMP KEHIDUPAN BARU",
+        "alamat": "Jalan RE. Martadinata No. 61",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9352,
+          -6.9181
+        ]
+      },
+      "properties": {
+        "npsn": "20221628",
+        "nama_sekolah": "SMP MUHAMMADIYAH I",
+        "alamat": "Jl. R. Syamsudin Sh No 59",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9317,
+          -6.9189
+        ]
+      },
+      "properties": {
+        "npsn": "20221606",
+        "nama_sekolah": "SMP N 2 KOTA SUKABUMI",
+        "alamat": "Jl. Ir. H. Juanda No. 14",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9324,
+          -6.9159
+        ]
+      },
+      "properties": {
+        "npsn": "20221632",
+        "nama_sekolah": "SMP NEGERI 9 KOTA SUKABUMI",
+        "alamat": "Jl.Suryakencana. No 60",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9357,
+          -6.9199
+        ]
+      },
+      "properties": {
+        "npsn": "20221614",
+        "nama_sekolah": "SMP PGRI CIAUL",
+        "alamat": "Jl. Amubawa Sasana No. 10",
+        "kelurahan": "Subangjaya",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9034,
+          -6.9166
+        ]
+      },
+      "properties": {
+        "npsn": "20221597",
+        "nama_sekolah": "SMP TAMAN SISWA",
+        "alamat": "Jl R Syamsudin Sh No 62",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8916,
+          -6.9669
+        ]
+      },
+      "properties": {
+        "npsn": "60709698",
+        "nama_sekolah": "MIS BOJONGLOA",
+        "alamat": "Jl. Pelabuhan II Km. 7 No. 28 Bojongloa RW. 11",
+        "kelurahan": "Lembursitu",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8916,
+          -6.9669
+        ]
+      },
+      "properties": {
+        "npsn": "60709696",
+        "nama_sekolah": "MIS YLPI TEGALLEGA",
+        "alamat": "JL. PALABUAN 2 KM.7",
+        "kelurahan": "Lembursitu",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9179,
+          -6.9711
+        ]
+      },
+      "properties": {
+        "npsn": "20279545",
+        "nama_sekolah": "MTSS AL-FATAH",
+        "alamat": "JL. MERDEKA NO. 28 CIKUNDUL",
+        "kelurahan": "Cikundul",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9181,
+          -6.9531
+        ]
+      },
+      "properties": {
+        "npsn": "20279544",
+        "nama_sekolah": "MTSS AMAL ISLAMI",
+        "alamat": "LEMBUR PASIR NO. 100 RT 01 RW 05",
+        "kelurahan": "Sindangsari",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9084,
+          -6.9592
+        ]
+      },
+      "properties": {
+        "npsn": "20279543",
+        "nama_sekolah": "MTSS BAITURRAHMAN",
+        "alamat": "JALAN MERDEKA 67 TEGALLAYA",
+        "kelurahan": "Cipanengah",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9183,
+          -6.9716
+        ]
+      },
+      "properties": {
+        "npsn": "70005212",
+        "nama_sekolah": "SD ISLAM AL-FATAH",
+        "alamat": "Jalan Merdeka Kampung Baru",
+        "kelurahan": "Cikundul",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9094,
+          -6.9766
+        ]
+      },
+      "properties": {
+        "npsn": "20221634",
+        "nama_sekolah": "SDN CIKUNDUL",
+        "alamat": "Jalan Merdeka 2 No. 220",
+        "kelurahan": "Cikundul",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70056595",
+        "nama_sekolah": "SMP IT BAITI JANNATI",
+        "alamat": "KP. RAWAGEDE",
+        "kelurahan": "Cikundul",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9452,
+          -6.9508
+        ]
+      },
+      "properties": {
+        "npsn": "20279532",
+        "nama_sekolah": "MTSS AL MANSHURIYAH",
+        "alamat": "JL.LIMUSNUNGGAL NO.275",
+        "kelurahan": "Limusnunggal",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9403,
+          -6.9434
+        ]
+      },
+      "properties": {
+        "npsn": "20279531",
+        "nama_sekolah": "MTSS DARUL MUTA ALIMIN",
+        "alamat": "JL.LIMUSNUNGGAL NO.108",
+        "kelurahan": "Limusnunggal",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9458,
+          -6.9264
+        ]
+      },
+      "properties": {
+        "npsn": "20258135",
+        "nama_sekolah": "SDIT ADZKIA 2",
+        "alamat": "Jalan Ciandam",
+        "kelurahan": "Cibeureum Hilir",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9466,
+          -6.9269
+        ]
+      },
+      "properties": {
+        "npsn": "20221448",
+        "nama_sekolah": "SDN CIANDAM",
+        "alamat": "Jl. Ciandam No 01 Blk",
+        "kelurahan": "Cibeureum Hilir",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9426,
+          -6.9475
+        ]
+      },
+      "properties": {
+        "npsn": "20221694",
+        "nama_sekolah": "SDN LIMUSNUNGGAL I",
+        "alamat": "Jl. Limusnunggal No. 215",
+        "kelurahan": "Limusnunggal",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70056992",
+        "nama_sekolah": "SEKOLAH DASAR ISLAM TERPADU RUSMANI KOTA SUKABUMI",
+        "alamat": "JL. LINGKAR SELATAN GUNUNG KARANG",
+        "kelurahan": "Limusnunggal",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9226,
+          -6.9485
+        ]
+      },
+      "properties": {
+        "npsn": "20221583",
+        "nama_sekolah": "SLB A BUDI NURANI",
+        "alamat": "Jalan Lio Balandongan Komplek Provelat No. 169",
+        "kelurahan": "Sudajaya Hilir",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9226,
+          -6.9485
+        ]
+      },
+      "properties": {
+        "npsn": "20221584",
+        "nama_sekolah": "SLB B BUDI NURANI",
+        "alamat": "Jalan Lio Balandongan No.12",
+        "kelurahan": "Sudajaya Hilir",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9233,
+          -6.9474
+        ]
+      },
+      "properties": {
+        "npsn": "20221585",
+        "nama_sekolah": "SLB C Budi Nurani",
+        "alamat": "Jl. Lio Balandongan Propelat",
+        "kelurahan": "Sudajaya Hilir",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70002721",
+        "nama_sekolah": "SLB NEGERI 1 Sukabumi",
+        "alamat": "Jl. Nangela",
+        "kelurahan": "Baros",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70044093",
+        "nama_sekolah": "SMA ISLAM TERPADU AL-HUDA",
+        "alamat": "Jl. Garuda No. 07",
+        "kelurahan": "Baros",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9356,
+          -6.9456
+        ]
+      },
+      "properties": {
+        "npsn": "20221593",
+        "nama_sekolah": "SMAS PELITA MADANIA",
+        "alamat": "Jl. R.H. Didi Sukardi, Jagaraksa Permai",
+        "kelurahan": "Jayaraksa",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9117,
+          -6.949
+        ]
+      },
+      "properties": {
+        "npsn": "69757154",
+        "nama_sekolah": "SMKS GEMA ISTIQOMAH",
+        "alamat": "JL. WIDYAKRAMA BALANDONGAN NO. 1",
+        "kelurahan": "Sudajaya Hilir",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9443,
+          -6.9661
+        ]
+      },
+      "properties": {
+        "npsn": "69754839",
+        "nama_sekolah": "SMKS IT MADANI",
+        "alamat": "JL. RAYA BAROS 01/07",
+        "kelurahan": "Baros",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9227,
+          -6.9462
+        ]
+      },
+      "properties": {
+        "npsn": "20280579",
+        "nama_sekolah": "SMKS PLUS AN-NABA",
+        "alamat": "JL. WIDYAKRAMA NO. 112",
+        "kelurahan": "Sudajaya Hilir",
+        "kecamatan": "Baros",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.93,
+          -6.9288
+        ]
+      },
+      "properties": {
+        "npsn": "69955721",
+        "nama_sekolah": "MA Sunanul-Aulia",
+        "alamat": "Jl. Pemuda Ii, No.18 Rt.001 Rw.006",
+        "kelurahan": "Cikondang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9316,
+          -6.9426
+        ]
+      },
+      "properties": {
+        "npsn": "20277177",
+        "nama_sekolah": "MAN 1 KOTA SUKABUMI",
+        "alamat": "Jl. PRAMUKA NO.4 RT. 03 RW. 04",
+        "kelurahan": "Gedong Panjang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9305,
+          -6.9384
+        ]
+      },
+      "properties": {
+        "npsn": "20221559",
+        "nama_sekolah": "SMAN 1 SUKABUMI",
+        "alamat": "JL. RH. Didi Sukardi No.124 Kota Sukabumi",
+        "kelurahan": "Citamiang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9307,
+          -6.9372
+        ]
+      },
+      "properties": {
+        "npsn": "20221577",
+        "nama_sekolah": "SMAS PGRI 1 SUKABUMI",
+        "alamat": "JL. R.H. DIDI SUKARDI NO.12 SUKABUMI",
+        "kelurahan": "Citamiang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9225,
+          -6.9455
+        ]
+      },
+      "properties": {
+        "npsn": "69894099",
+        "nama_sekolah": "SMK MUTIARA CENDEKIA",
+        "alamat": "Jl. Lio Balandongan Sirnagalih No. 74",
+        "kelurahan": "Cikondang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9261,
+          -6.9346
+        ]
+      },
+      "properties": {
+        "npsn": "20221569",
+        "nama_sekolah": "SMKN 2 SUKABUMI",
+        "alamat": "JL. PELABUHAN II CIPOHO SUKABUMI",
+        "kelurahan": "Cikondang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9356,
+          -6.927
+        ]
+      },
+      "properties": {
+        "npsn": "20221572",
+        "nama_sekolah": "SMKS PELITA YNH SUKABUMI",
+        "alamat": "JL. OTISTA GG. PELITA SUKABUMI",
+        "kelurahan": "Nanggeleng",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9268,
+          -6.9357
+        ]
+      },
+      "properties": {
+        "npsn": "20221574",
+        "nama_sekolah": "SMKS PGRI 1 SUKABUMI",
+        "alamat": "Jalan Pelabuhan II Cipoho Indah",
+        "kelurahan": "Cikondang",
+        "kecamatan": "Citamiang",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9088,
+          -6.921
+        ]
+      },
+      "properties": {
+        "npsn": "20277172",
+        "nama_sekolah": "MAN 2 KOTA SUKABUMI",
+        "alamat": "JL.PALASARI NO.14",
+        "kelurahan": "Sukakarya",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9194,
+          -6.942
+        ]
+      },
+      "properties": {
+        "npsn": "20277173",
+        "nama_sekolah": "MAS AL ISTIQOMAH",
+        "alamat": "JL. NYOMPLONG RT.5/9 KARTAPURA",
+        "kelurahan": "Dayeuhluhur",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9186,
+          -6.9261
+        ]
+      },
+      "properties": {
+        "npsn": "20277176",
+        "nama_sekolah": "MAS JAMIYYATUL MUTA`ALLIMIN",
+        "alamat": "JL. NAGRAK TAMAN BAHAGIA",
+        "kelurahan": "Benteng",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.911648,
+          -6.930981
+        ]
+      },
+      "properties": {
+        "npsn": "20277178",
+        "nama_sekolah": "MAS PERSATUAN ISLAM",
+        "alamat": "JL. TEGALWANGI II NO. 133",
+        "kelurahan": "Sukakarya",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9002,
+          -6.9235
+        ]
+      },
+      "properties": {
+        "npsn": "69976365",
+        "nama_sekolah": "NURUL ISLAM",
+        "alamat": "Jln. Cemerlang No 50 Kubang, Kel. Sukakarya, Kec. Warudoyong Kota Sukabumi Provi",
+        "kelurahan": "Sukakarya",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9075432,
+          -6.9174463
+        ]
+      },
+      "properties": {
+        "npsn": "20221573",
+        "nama_sekolah": "SMKS ISLAM PENGUJI SUKABUMI",
+        "alamat": "JL. KH. AHMAD SANUSI 195 SUKABUMI",
+        "kelurahan": "Sukakarya",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9231,
+          -6.924
+        ]
+      },
+      "properties": {
+        "npsn": "20229796",
+        "nama_sekolah": "SMKS PASUNDAN 1 SUKABUMI",
+        "alamat": "JL. PASUNDAN NO.117 SUKABUMI",
+        "kelurahan": "Nyomplong",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9232,
+          -6.9237
+        ]
+      },
+      "properties": {
+        "npsn": "20221571",
+        "nama_sekolah": "SMKS PASUNDAN 2 SUKABUMI",
+        "alamat": "JL. PASUNDAN NO.117 SUKABUMI",
+        "kelurahan": "Nyomplong",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9034,
+          -6.9166
+        ]
+      },
+      "properties": {
+        "npsn": "20221596",
+        "nama_sekolah": "SMKS TEKNOLOGI PLUS PADJADJARAN SUKABUMI",
+        "alamat": "JL. CEMERLANG  NO.18",
+        "kelurahan": "Sukakarya",
+        "kecamatan": "Warudoyong",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9145,
+          -6.9011
+        ]
+      },
+      "properties": {
+        "npsn": "69983491",
+        "nama_sekolah": "MAS PLUS ULUL ALBAB",
+        "alamat": "JL. KARAMAT KARANGTENGAH NO. 125",
+        "kelurahan": "Karang Tengah",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9161,
+          -6.9169
+        ]
+      },
+      "properties": {
+        "npsn": "20277179",
+        "nama_sekolah": "MAS SYAMSUL ULUM",
+        "alamat": "JL. BHAYANGKARA NO. 33",
+        "kelurahan": "Gunung Puyuh",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9134,
+          -6.9068
+        ]
+      },
+      "properties": {
+        "npsn": "69983492",
+        "nama_sekolah": "MAS TERPADU AL IRSYAD",
+        "alamat": "JL. MERBABU PERUM GADING KENCANA ASRI BLOK G",
+        "kelurahan": "Karang Tengah",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9111,
+          -6.9128
+        ]
+      },
+      "properties": {
+        "npsn": "69983490",
+        "nama_sekolah": "MAS YASMIN",
+        "alamat": "JL. K.H. AHMAD SANUSI ( SITUAWI PASIR )",
+        "kelurahan": "Karang Tengah",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9135,
+          -6.9063
+        ]
+      },
+      "properties": {
+        "npsn": "69972549",
+        "nama_sekolah": "SMA ISLAM TERPADU AL FATH",
+        "alamat": "Jl. Merbabu Perum Gading Kencana Asri",
+        "kelurahan": "Karang Tengah",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9192173,
+          -6.9083808
+        ]
+      },
+      "properties": {
+        "npsn": "69942149",
+        "nama_sekolah": "SMA ISLAM TERPADU INSANI",
+        "alamat": "Jl. Karamat No. 55",
+        "kelurahan": "Karamat",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9167,
+          -6.9059
+        ]
+      },
+      "properties": {
+        "npsn": "20221560",
+        "nama_sekolah": "SMAN 2 SUKABUMI",
+        "alamat": "JL. KARAMAT NO. 93 SUKABUMI",
+        "kelurahan": "Karamat",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9173,
+          -6.9072
+        ]
+      },
+      "properties": {
+        "npsn": "20221588",
+        "nama_sekolah": "SMAS NURUL KAROMAH",
+        "alamat": "JL. KARAMAT NO. 79 SUKABUMI",
+        "kelurahan": "Karamat",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9177,
+          -6.9038
+        ]
+      },
+      "properties": {
+        "npsn": "20221587",
+        "nama_sekolah": "SMAS PESANTREN TERPADU HAYATAN THAYYIBAH",
+        "alamat": "JL. KARAMAT NO. 123 SUKABUMI",
+        "kelurahan": "Gunung Puyuh",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9161,
+          -6.9266
+        ]
+      },
+      "properties": {
+        "npsn": "20254980",
+        "nama_sekolah": "SMKS KOMPUTER ABDI BANGSA SUKABUMI",
+        "alamat": "Jalan Benteng Kidul Rt 01 Rw 01 Kec. Warudoyong",
+        "kelurahan": "Karamat",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9229,
+          -6.9194
+        ]
+      },
+      "properties": {
+        "npsn": "69757153",
+        "nama_sekolah": "SMKS PRIORITY",
+        "alamat": "JL VETERAN I NO 25 KOTA SUKABUMI, TLP. (0266) 6249831",
+        "kelurahan": "Sriwidari",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9177,
+          -6.9041
+        ]
+      },
+      "properties": {
+        "npsn": "20221616",
+        "nama_sekolah": "SMKS SILIWANGI SUKABUMI",
+        "alamat": "JL. TITIRAN BHAYANGKARA NO. 39 SUKABUMI",
+        "kelurahan": "Sriwidari",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9142,
+          -6.901
+        ]
+      },
+      "properties": {
+        "npsn": "20253909",
+        "nama_sekolah": "SMKS ULUL ALBAB SUKABUMI",
+        "alamat": "JALAN KARAMAT KARANG TENGAH NO. 125",
+        "kelurahan": "Karang Tengah",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.917,
+          -6.9169
+        ]
+      },
+      "properties": {
+        "npsn": "20221618",
+        "nama_sekolah": "SMKS YASPI SYAMSUL ULUM SUKABUMI",
+        "alamat": "JL. BHAYANGKARA NO. 33",
+        "kelurahan": "Gunung Puyuh",
+        "kecamatan": "Gunung Puyuh",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9217,
+          -6.9264
+        ]
+      },
+      "properties": {
+        "npsn": "20277180",
+        "nama_sekolah": "MAS YAYASAN AHMAD DJUWAENI",
+        "alamat": "JL. VETERAN I NO.36",
+        "kelurahan": "Gunung Parang",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.952755,
+          -6.912079
+        ]
+      },
+      "properties": {
+        "npsn": "69983844",
+        "nama_sekolah": "SMA ISLAM AL AZHAR 21 SUKABUMI",
+        "alamat": "JL. Subangjaya RT03/07 Cikole Sukabumi",
+        "kelurahan": "Subangjaya",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9447,
+          -6.9207
+        ]
+      },
+      "properties": {
+        "npsn": "20221561",
+        "nama_sekolah": "SMAN 3 SUKABUMI",
+        "alamat": "Jalan Ciaul Baru No.21",
+        "kelurahan": "Subangjaya",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9319,
+          -6.9192
+        ]
+      },
+      "properties": {
+        "npsn": "20221562",
+        "nama_sekolah": "SMAN 4 SUKABUMI",
+        "alamat": "JL. IR. H. JUANDA NO. 8 SUKABUMI",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9233,
+          -6.9474
+        ]
+      },
+      "properties": {
+        "npsn": "20221586",
+        "nama_sekolah": "SMAS ADVENT SUKABUMI",
+        "alamat": "JL. VETERAN II NO. 5 SUKABUMI",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.932,
+          -6.9151
+        ]
+      },
+      "properties": {
+        "npsn": "20221589",
+        "nama_sekolah": "SMAS KRISTEN BPK PENABUR",
+        "alamat": "JL. BHAYANGKARA NO. 240 SUKABUMI",
+        "kelurahan": "Selabatu",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.932,
+          -6.921
+        ]
+      },
+      "properties": {
+        "npsn": "20221590",
+        "nama_sekolah": "SMAS MARDI YUANA",
+        "alamat": "JL. R.E MARTADINATA NO. 54 SUKABUMI",
+        "kelurahan": "Kebonjati",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9225,
+          -6.9153
+        ]
+      },
+      "properties": {
+        "npsn": "20221591",
+        "nama_sekolah": "SMAS MUHAMMADIYAH",
+        "alamat": "JL. R. SYAMSUDIN SH. NO. 59 SUKABUMI",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9268,
+          -6.9356
+        ]
+      },
+      "properties": {
+        "npsn": "20221575",
+        "nama_sekolah": "SMAS TAMAN SISWA",
+        "alamat": "JL. R. SYAMSUDIN SH NO. 62",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9231,
+          -6.9195
+        ]
+      },
+      "properties": {
+        "npsn": "20221558",
+        "nama_sekolah": "SMAS YAYASAN AHMAD DJUWAENI",
+        "alamat": "JL. VETERAN I NO. 36 SUKABUMI",
+        "kelurahan": "Gunung Parang",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9454426,
+          -6.9151454
+        ]
+      },
+      "properties": {
+        "npsn": "69921197",
+        "nama_sekolah": "SMK IT AL-FATH",
+        "alamat": "Jl. Otto Iskandardinata No. 23B",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9306,
+          -6.9057
+        ]
+      },
+      "properties": {
+        "npsn": "20221568",
+        "nama_sekolah": "SMKN 1 SUKABUMI",
+        "alamat": "JL. KABANDUNGAN NO. 90",
+        "kelurahan": "Selabatu",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9304,
+          -6.905
+        ]
+      },
+      "properties": {
+        "npsn": "20221570",
+        "nama_sekolah": "SMKN 3 SUKABUMI",
+        "alamat": "JL. KABANDUNGAN NO.86 SUKABUMI",
+        "kelurahan": "Selabatu",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9352,
+          -6.918
+        ]
+      },
+      "properties": {
+        "npsn": "20221566",
+        "nama_sekolah": "SMKS MUHAMMADIYAH 1 SUKABUMI",
+        "alamat": "JL. SYAMSUDIN SH NO.59 SUKABUMI",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9239,
+          -6.919
+        ]
+      },
+      "properties": {
+        "npsn": "20270889",
+        "nama_sekolah": "SMKS PASIM PLUS SUKABUMI",
+        "alamat": "JL. PRANA NO 8 RT 01/05",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9529,
+          -6.9054
+        ]
+      },
+      "properties": {
+        "npsn": "69757214",
+        "nama_sekolah": "SMKS PERSADA",
+        "alamat": "JL KH MUSTOPA NO 24 SUBANG JAYA WETAN",
+        "kelurahan": "Subangjaya",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9298,
+          -6.9331
+        ]
+      },
+      "properties": {
+        "npsn": "20221617",
+        "nama_sekolah": "SMKS TAMANSISWA SUKABUMI",
+        "alamat": "R.SYAMSUDIN,SH NO. 58",
+        "kelurahan": "Cikole",
+        "kecamatan": "Cikole",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8949,
+          -6.9682
+        ]
+      },
+      "properties": {
+        "npsn": "70027390",
+        "nama_sekolah": "MA ANSOR AL MUSLIM",
+        "alamat": "Jl. Kibitay Kp. Bangsanaya RT 03 RW 07",
+        "kelurahan": "Situmekar",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9034,
+          -6.9528
+        ]
+      },
+      "properties": {
+        "npsn": "20277174",
+        "nama_sekolah": "MAS AMAL ISLAMI",
+        "alamat": "JL. SINDANGSARI LEMBURPASIR NO. 100 RT 01 RW 05 KEL. SINDANGSARI KEC. LEMBURSIT",
+        "kelurahan": "Lembursitu",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9021,
+          -6.9511
+        ]
+      },
+      "properties": {
+        "npsn": "20277175",
+        "nama_sekolah": "MAS BAITURRAHMAN",
+        "alamat": "JL. MERDEKA 67 TEGALLAYA",
+        "kelurahan": "Lembursitu",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "69976364",
+        "nama_sekolah": "MAS RIYADLUL JANNAH",
+        "alamat": "JL MERDEKA II RT 01 RW 07",
+        "kelurahan": "Cikundul",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8785,
+          -6.9639
+        ]
+      },
+      "properties": {
+        "npsn": "20277181",
+        "nama_sekolah": "MAS YLPI",
+        "alamat": "JL. PELABUHAN II KM.8",
+        "kelurahan": "Lembursitu",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9185,
+          -6.9531
+        ]
+      },
+      "properties": {
+        "npsn": "69899673",
+        "nama_sekolah": "SMK IT AMAL ISLAMI",
+        "alamat": "Jl. Sindangsari Lemburpasir No. 100 RT. 001/005",
+        "kelurahan": "Sindangsari",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9077,
+          -6.961
+        ]
+      },
+      "properties": {
+        "npsn": "20253907",
+        "nama_sekolah": "SMKN 4 SUKABUMI",
+        "alamat": "JALAN MERDEKA KM 4",
+        "kelurahan": "Cipanengah",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9022,
+          -6.9586
+        ]
+      },
+      "properties": {
+        "npsn": "69757152",
+        "nama_sekolah": "SMKS BINA SATYA MANDIRI",
+        "alamat": "JL JERUK NYELAP NO 07",
+        "kelurahan": "Situmekar",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8776,
+          -6.9635
+        ]
+      },
+      "properties": {
+        "npsn": "69757213",
+        "nama_sekolah": "SMKS KESEHATAN TUNAS MADANI",
+        "alamat": "JL. PELABUHAN II KM 8 TEGALLEGA",
+        "kelurahan": "Lembursitu",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9026,
+          -6.968
+        ]
+      },
+      "properties": {
+        "npsn": "20221595",
+        "nama_sekolah": "SMKS PLUS BINA TEKNIK YLPI SUKABUMI",
+        "alamat": "JL. PELABUHAN II KM 7 SUKABUMI",
+        "kelurahan": "Lembursitu",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9085,
+          -6.9611
+        ]
+      },
+      "properties": {
+        "npsn": "20265663",
+        "nama_sekolah": "SMKS TERPADU IBADURRAHMAN",
+        "alamat": "JALAN PELABUHAN II KM. 7/JL KH ACUN MANSHUR",
+        "kelurahan": "Lembursitu",
+        "kecamatan": "Lembur Situ",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "npsn": "70051033",
+        "nama_sekolah": "MA AL-Intizhoom",
+        "alamat": "Jl limusnunggal rt 02 rw 01 kel. cibeurueum hilir kec. cibeureum kota sukabumi",
+        "kelurahan": "Kec. Cibeureum",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9572,
+          -6.9199
+        ]
+      },
+      "properties": {
+        "npsn": "69955722",
+        "nama_sekolah": "MA Ma`arif Assobariyyah",
+        "alamat": "Jl. Ra Kosasih No.46 -47",
+        "kelurahan": "Babakan",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.952933,
+          -6.954445
+        ]
+      },
+      "properties": {
+        "npsn": "69881421",
+        "nama_sekolah": "MAS  AL-MANSHURIYAH",
+        "alamat": "JL.LIMUSNUNGGAL",
+        "kelurahan": "Limusnunggal",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9397,
+          -6.9459
+        ]
+      },
+      "properties": {
+        "npsn": "69983489",
+        "nama_sekolah": "MAS DARUL MUTA`ALIMIN",
+        "alamat": "Jl Limusnunggal No. 108",
+        "kelurahan": "Limusnunggal",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9448,
+          -6.9493
+        ]
+      },
+      "properties": {
+        "npsn": "69916542",
+        "nama_sekolah": "SMA IT AL IZZAH",
+        "alamat": "Kp. Cibungur",
+        "kelurahan": "Limusnunggal",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "SWASTA",
+        "bentuk": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9514,
+          -6.9456
+        ]
+      },
+      "properties": {
+        "npsn": "20221563",
+        "nama_sekolah": "SMAN 5 SUKABUMI",
+        "alamat": "JL. SARASA BLOK LOASARI NO.1 SUKABUMI",
+        "kelurahan": "Limusnunggal",
+        "kecamatan": "Cibeureum",
+        "kabupaten": "Kota Sukabumi",
+        "status": "NEGERI",
+        "bentuk": ""
+      }
+    }
+  ]
+}
