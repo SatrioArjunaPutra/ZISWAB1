@@ -180,6 +180,15 @@ function MapView() {
         setHoverInfo={setHoverInfo}
         />
 
+        {/* Layer Desa/Kelurahan */}
+        <Desa_Kelurahan_layer
+          selectedKabupaten={selectedKabupaten}
+          selectedKecamatan={selectedKecamatan}
+          selectedDesa={selectedDesa}
+          setSelectedDesa={setSelectedDesa}
+          setHoverInfo={setHoverInfo}
+        />
+
         {/* Titik Sekolah (SD/SMP/SMA), muncul begitu desa dipilih */}
         <Sekolah_layer
           selectedKabupaten={selectedKabupaten}
@@ -192,15 +201,6 @@ function MapView() {
           selectedKabupaten={selectedKabupaten}
           selectedKecamatan={selectedKecamatan}
           selectedDesa={selectedDesa}
-        />
-
-        {/* Layer Desa/Kelurahan */}
-        <Desa_Kelurahan_layer
-          selectedKabupaten={selectedKabupaten}
-          selectedKecamatan={selectedKecamatan}
-          selectedDesa={selectedDesa}
-          setSelectedDesa={setSelectedDesa}
-          setHoverInfo={setHoverInfo}
         />
 
         {/* Zoom Kabupaten */}
